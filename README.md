@@ -138,6 +138,7 @@
 - [ ] WebAPI設計
 - [ ] REST / RESTful APIs  ( RESTという設計思想に従って作成されたAPIがRESTful APIであるという程度の認識でいい ) 
   - [ ] <a href="https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa">Rest 入門 基礎知識 </a>
+  - [ ] <a href="http://yohei-y.blogspot.com/2007/10/blog-post.html">ステートレストは何か</a>
 
 
 

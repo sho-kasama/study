@@ -196,7 +196,7 @@ ________________________________________________________________________________
 
 ## 1, Learn the basics of HTML
 
-- [ ] <a href ="https://developer.mozilla.org/ja/docs/Web/HTML">MDN html</a>
+- [x] <a href ="https://developer.mozilla.org/ja/docs/Web/HTML">MDN html</a>
 - [ ] セマンティックなHTMLの基本と作成方法
 - [ ] DOMを適切に構造化する方法
 

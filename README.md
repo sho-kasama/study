@@ -29,8 +29,6 @@
 
 
 
-
-
 ## 2, Practice what you learn 
 
 - [ ] many_studyを載せる
@@ -44,8 +42,8 @@
 ## 4, Standards and Best Practices
 
 - [ ] コーディング規約
-  - [ ] still
-  - [ ] still
+  - [ ] <a href="https://github.com/cookpad/styleguide/blob/master/ruby.ja.md">cookpad/styleguide</a>
+  - [ ] <a href="https://github.com/airbnb/ruby">airbnb/ruby</a>
   - [ ] still
   - [ ] still
 

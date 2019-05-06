@@ -1,30 +1,31 @@
 # Back-end Roadmap
 <a href="https://qiita.com/rana_kualu/items/19ab559dddbca6674417">参考記事</a>
+<a href="https://qiita.com/poly_soft/items/fb649573c19b7a5c0227"> 参考記事</a>
 
 ## 1.Pick a language 
 
 
-#### Scripting Languages
+#### 動的型付けのスクリプト言語
 - [ ] Pyhon
 - [ ] Ruby
 - [ ] PHP
 - [ ] node.js
 
-#### Functional Languages
+#### 静的型付けの関数型コンパイル言語
 - [ ] Elixir
 - [ ] Scala
 - [ ] Erlang
 - [ ] Clojure
 - [ ] Haskell
 
-#### Multiparadigm Languages
+#### 静的型付けのコンパイル言語
 - [ ] Golang
 - [ ] Rust
 
 
 #### Enterprisey Options
 - [ ] Java
-- [ ] .NET
+
 
 
 
@@ -53,8 +54,11 @@
 ## 5, Security
 
 
-- [ ] セキュリティ
-
+- [ ] SQLインジェクション
+- [ ] XSS
+- [ ] CSRF
+- [ ] クラウド(AWSやGCP)上ではIAM等を使用したアクセス制御をなるべく細かく行っておく
+- [ ] 常時SSL化
 
 ## 6, Practice
 
@@ -108,18 +112,27 @@
 - [ ] RethinkDB
 - [ ] Couchbase
 
-## 14, Caching
+## 14, NoSQL/Caching
 
 - [ ] Memcached
 
 - [ ] Redis
 
 
+- [ ] DynamoDB
+
+- [ ] Cassandra
+
+
+
+
+
 ## 15, Creating RESTful APIs
 
 - [ ] API作成
 - [ ] WebAPI設計
-- [ ] REST / RESTful APIs
+- [ ] REST / RESTful APIs  ( RESTという設計思想に従って作成されたAPIがRESTful APIであるという程度の認識でいい ) 
+  - [ ] <a href="https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa">Rest 入門 基礎知識 </a>
 
 
 
@@ -127,6 +140,13 @@
 
 
 - [ ] Oauth — Open Authentication
+  - [ ] <a href="https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be">一番分かりやすい OAuth の説明</a>
+  - [ ] <a href="https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe">一番分かりやすい OpenID Connect の説明</a>
+  - [ ] <a href="https://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a">JSON Web Token の効用</a>
+
+
+
+
 - [ ] BASIC認証
 - [ ] トークン認証
 - [ ] JWT — JSON Web Tokens
@@ -151,13 +171,21 @@
 
 
 - [ ] Docker
+- [ ] Dockerfileを書いて
+- [ ] docker buildコマンドでDockerイメージをビルドして
+- [ ] そのイメージを何らかのリポジトリ(DockerHub等)にdocker pushして
+- [ ] そのイメージを何らかのVM上にdocker pullして
+- [ ] そのイメージをdocker runしてコンテナを実行して
+- [ ] そのコンテナの特定のポートに外部からアクセスする
+
+
+
+
 
 ## 20, Knowledge of Web Servers
 
 
-- [ ] Apache
 - [ ] Nginx
-- [ ] Puma
 - [ ] Caddy
 - [ ] MS IIS
 
@@ -165,6 +193,7 @@
 ## 21, Learn how to use Web Sockets
 
 - [ ] Web Sockets
+( ゲームやチャットサービスや、あるいは`Trello`のようなサービスを開発する上では必須な技術 ) 
 
 
 ## 22,  Learn GraphQL
@@ -175,6 +204,17 @@
 ## 23, Look into Graph Databases
 
 - [ ] Graph DB
+
+## 24, CI/CD
+
+
+- [ ] CircleCI 2.0
+
+
+
+
+
+
 
 ## 24, All the things that weren't mentioned above
 

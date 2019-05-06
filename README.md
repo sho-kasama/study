@@ -309,7 +309,7 @@ ________________________________________________________________________________
 
 ## 13, Progressive WebApps
 
-- [ ] <a href="https://qiita.com/rana_kualu/items/144225f463fb0f1a21f6">PWAについて学ぶ</a>
+<a href="https://qiita.com/rana_kualu/items/144225f463fb0f1a21f6">PWAについて学ぶ</a>
 
 
 ## 14, Testing your Apps

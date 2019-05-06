@@ -128,6 +128,13 @@
 ## 15, Creating RESTful APIs
 
 - [ ] API作成
+  - [ ] <a href="https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9">Railsで簡単api</a>  <br>
+  - [ ] <a href="https://qiita.com/shimo_513/items/a58c0b44152f2a5c2ac6">APIが身近に感じられない人が身近に感じるための記事</a> <br>
+  - [ ] <a href="https://qiita.com/k-penguin-sato/items/defdb828bd54729272ad">【Rails】RailsAPIテストの書き方</a>  <br> 
+  - [ ] <a href="https://matthewlehner.net/rails-api-testing-guidelines">Rails API Testing Best Practices</a> <br>
+
+
+
 - [ ] WebAPI設計
 - [ ] REST / RESTful APIs  ( RESTという設計思想に従って作成されたAPIがRESTful APIであるという程度の認識でいい ) 
   - [ ] <a href="https://qiita.com/TakahiRoyte/items/949f4e88caecb02119aa">Rest 入門 基礎知識 </a>

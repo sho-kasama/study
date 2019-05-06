@@ -192,11 +192,11 @@ ________________________________________________________________________________
 
 # Frontend Roodmap
 
-<a href=" https://qiita.com/rana_kualu/items/5986ceab8fd4e353de1b">参考記事 </a>
+<a href="https://qiita.com/rana_kualu/items/5986ceab8fd4e353de1b">参考記事 </a>
 
 ## 1, Learn the basics of HTML
 
-- [ ] <a href =" https://developer.mozilla.org/ja/docs/Web/HTML">MDN html</a>
+- [ ] <a href ="https://developer.mozilla.org/ja/docs/Web/HTML">MDN html</a>
 - [ ] セマンティックなHTMLの基本と作成方法
 - [ ] DOMを適切に構造化する方法
 

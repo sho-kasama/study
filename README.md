@@ -188,79 +188,148 @@
 
 # Frontend Roodmap
 
+<a href =" https://qiita.com/rana_kualu/items/5986ceab8fd4e353de1b">参考記事 </a>
 
+## 1, Learn the basics of HTML
 
+- [ ] <a href =" https://developer.mozilla.org/ja/docs/Web/HTML">MDN html</a>
+- [ ] セマンティックなHTMLの基本と作成方法
+- [ ] DOMを適切に構造化する方法
 
+#### Task
 
+- [ ] HTMLサイト作成 ( 最低5ページ )
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
 
+## 2, Learn some CSS
+ 
+- [ ] css property
+- [ ] box model
+- [ ] Grid layout
+- [ ] Flexbox
+- [ ] Media Queries
 
+#### Task
 
+- [ ] HTMLサイトに装飾する
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
 
 
 
+## 3, Learn the Basics of JavaScript
 
+- [ ] 言語の構文と基本構造について
+- [ ] JavaScriptを用いてDOMを操作する方法。要素の追加削除。classの追加削除。CSSスタイル
+- [ ] scope, Closure, 変数巻き上げ, イベントバブリング等
+- [ ] XHR, AjaxでHTTPリクエスト
+- [ ] ES6以降の新機能について学ぶ
 
+## 4, Should I learn Jquery?
+ 
+- [ ] Jqueryについて学ぶ
 
+## 5, Time to Practice
 
+- [ ] レスポンシブなWebサイトを作り、JavaScriptを使ってインタラクティブな機能を追加
 
 
+## 6, Package Managers
+ 
+- [ ] yarn
+- [ ] npm
 
 
 
+## 7, Let’s use what we have learnt
+ 
+- [ ] 作成したwebページに外部ライブラリを導入する
 
+## 8, CSS Preprocessors
 
+- [ ] Sassについて勉強する
 
 
+## 9, CSS Framework
 
+- [ ] Bootstrap
 
 
+## 10, CSS Organization
 
+- [ ] OOCSS
+- [ ] SMACSS
+- [ ] SUITCSS
+- [ ] Atomic
+- [ ] BEM
 
+## 11, Build Tools
 
+- [ ] npm script
 
+#### Linter 
 
+- [ ] ESlint
 
+#### Module bundler
 
+- [ ] Webpack
 
 
+## 12, Pick a Framework
 
 
+- [ ] React
+  - [ ] Rudex
+  - [ ] Mobx
 
 
+- [ ] Vue
+  - [ ] Vuex
 
 
+- [ ] Angular2
+  - [ ] TypeScirpt
+  - [ ] Rx.js
 
 
 
+## 13, Progressive WebApps
 
+- [ ] <a href="https://qiita.com/rana_kualu/items/144225f463fb0f1a21f6">PWAについて学ぶ</a>
 
 
+## 14, Testing your Apps
 
+- [ ] Jest
+- [ ] Mocha
+- [ ] Karama
+- [ ] Enzyme
 
 
+## 15, Static Type Checkers
 
+- [ ] TypeScirpt
 
 
+## 16, Server Side Rendering
 
+- [ ] React
+  - [ ] Next.js
+  - [ ] After.js
 
+- [ ] Angular
+  - [ ] Universal
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [ ] Vue
+  - [ ] Nuxt.js
 

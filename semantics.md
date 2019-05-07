@@ -54,3 +54,26 @@ Webの意味論には、HTMLなどで表現したテキストがどのような�
 
 HTMl自体に意味を持たせて、内容をわかりやすく検索エンジンに伝える記述方法。<br>
 これがHTML5の目指すセマンティックなマークアップである。
+<br>
+<br>
+
+
+## 参考記事
+
+
+
+
+
+
+
+
+
+[セマンティック HTML とはなんじゃろう](https://vosegus.org/2012/06/02/what-is-semantic-html/)
+[セマンティックマークアップまとめ](https://bsj-k.com/html5-semantic-markup/)
+[HTML5の文書構造「セマンティックマークアップ」まとめ](https://bsj-k.com/html5-semantic-markup/)
+
+
+
+
+
+

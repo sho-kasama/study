@@ -10,6 +10,7 @@
 - [ ] Ruby
   - [ ] <a href="https://www.ruby.or.jp/ja/certification/examination/">Ruby 技術者検定</a>
   - [ ] <a href="http://www.minituku.net/drills/775230600.html">Rubyがミニツク</a>
+  - [ ] <a href="https://github.com/sho-kasama/study/blob/master/rails_practice.md">問題を解いたのをまとめた</a>
 
 
 

@@ -1,6 +1,18 @@
 
+# 目次
 
-## RubyGemsとは
+1, RubyGemsとは
+  1.1 Gemfileの-> という記号はどういう意味なのか
+2, Bundlerとは
+  2.1 Gemfile/Gemfile.lockとは
+  2.2 bundle install/bundle updateの違いとは
+3, 
+
+
+
+
+
+## 1, RubyGemsとは
 <br>
 Rubyに関係するパッケージを総称してRubyGemsといいます。<br>
 開発に便利なライブラリやフレームワークをパッケージにし、公開されたそれらはRubylist達は、RubyGems,Gem,Gemsと呼んでいます。<br>
@@ -9,26 +21,8 @@ Gemに限らずパッケージの依存関係を管理することが安定の�
 
 
 
-<br>
 
-
-## Bundlerとは
-Bundler の前にまず、Ruby に関係するパッケージを総称して RubyGems といいます。<br>
-開発に便利なライブラリやフレームワークをパッケージして<br>
-公開されたそれらを Rubyist 達は RubyGems、Gem、Gems と呼んでいます。<br>
-Gem に限らずパッケージの依存関係を管理することが安定の為にも重要です。<br>
-<br>
-そして、Bundlerとは、それら依存関係を管理してくれるツールです。<br>
-例えば、ある Gem が依存している別の Gem や、それらのバージョン管理であったり、他にも Test や Dev や Pro といった環境ごとに別のバージョンを使用する等に必要となります。<br>
-
-
-
-
-
-
-
-
-## Gemfileの -> という記号はどういう意味なのか
+## 1.1 Gemfileの -> という記号はどういう意味なのか
 
 RubyGemsの依存関係を管理してくれるBundlerのGemfile内で使われる`~>`という記号はどういう意味なのでしょうか。<br>
 Bundler のバージョンは 1.16.1 になります。<br>
@@ -71,6 +65,31 @@ gem 'nokogiri', '>= 1.4.2', '< 1.5.0'
 ```
 
 Gemfile で ~> という記号をを見かけたときはそう言う意味になります<br>
+
+
+
+
+
+
+<br>
+
+
+## 2, Bundlerとは
+Bundler の前にまず、Ruby に関係するパッケージを総称して RubyGems といいます。<br>
+開発に便利なライブラリやフレームワークをパッケージして<br>
+公開されたそれらを Rubyist 達は RubyGems、Gem、Gems と呼んでいます。<br>
+Gem に限らずパッケージの依存関係を管理することが安定の為にも重要です。<br>
+<br>
+そして、Bundlerとは、それら依存関係を管理してくれるツールです。<br>
+例えば、ある Gem が依存している別の Gem や、それらのバージョン管理であったり、他にも Test や Dev や Pro といった環境ごとに別のバージョンを使用する等に必要となります。<br>
+このBundlerもRubyGems
+`
+gem install bundler
+`
+
+
+
+
 
 
 

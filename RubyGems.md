@@ -1,12 +1,12 @@
 
 # 目次
 
-1, RubyGemsとは
-  1.1 Gemfileの-> という記号はどういう意味なのか
-2, Bundlerとは
-  2.1 Gemfile/Gemfile.lockとは
-  2.2 bundle install/bundle updateの違いとは
-3, 
+1. RubyGemsとは <br>
+  1.1 Gemfileの-> という記号はどういう意味なのか <br>
+2. Bundlerとは <be>
+  2.1 Gemfile/Gemfile.lockとは <br>
+  2.2 bundle install/bundle updateの違いとは<br>
+3.
 
 
 

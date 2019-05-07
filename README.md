@@ -31,13 +31,14 @@
 
 ## 2, Practice what you learn 
 
-- [ ] many_studyを載せる
+- [ ] <a href="https://github.com/sho-kasama/many__study">個人開発</a>
 
 
 
 ## 3, Learn Package Manager
 
 - [ ] RubyGems
+  - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
 
 ## 4, Standards and Best Practices
 

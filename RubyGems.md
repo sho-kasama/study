@@ -5,7 +5,7 @@
 1. RubyGemsとは <br>
 1.1 Gemfileの-> という記号はどういう意味なのか <br>
 2. Bundlerとは <be>
-  2.1 Gemfile/Gemfile.lockとは <br>
+  2.1 Gemfile/Gemfile.lock/gemspecの違いとは <br>
   2.2 bundle install/bundle updateの違いとは<br>
 3.
 
@@ -135,6 +135,27 @@ s.add_development_dependency '***'
 
 
 
+## 2.2 bundle install/bundle updateの違いとは
+
+
+## bundle install
+
+`bundle install`を実行すると、railsはgemfile.lockを元にgemのインストールを行います。<br>
+このとき、gemfile.lockに記述されてない、且つgemfileに記述されているgemがある場合、そのgemとそのgemに関連するgemをインストール後、gemfile.lockを更新します。
+<br>
+
+## bundle update
+`bundle update`を実行すると、Bundlerは、gemfileを元にgemのインストールを行います。その後、gemfile.lockを更新します。
+
+
+
+## これら二つのコマンドの使い分けについて
+<br>
+`bundle update`は文字通り、gemのバージョンを更新する時に使用します。<br>
+これは、`bundle install`コマンドはgemfile.lockにあるgemについては、更新しないためです。<br>
+但し、`bundle update`は、本番環境で安易に実行しないでください。<br>
+gemのバージョンのズレが起こり、クラッシュする可能性があります。`bundle update`は、必ず、ローカル環境で実行してください。
+`bundle install`は、新しい環境や、gemfileに新しくgemを記述した時に使用します。      
 
 
 
@@ -149,3 +170,4 @@ s.add_development_dependency '***'
 <a href="https://yu8mada.com/2018/04/22/what-does-tilde-greater-than-sign-mean-in-gemfile/">Gemfile の ~> という記号はどういう意味なのか</a> <br>
 <a href="https://qiita.com/tnoda_/items/a04e761d595a742fcdca">gemspec と Gemfile と Gemfile.lock との違い．</a>
 <a href="http://sanemat.github.io/archives/langturn.com-translations-33/">gemspecとGemfileの役割をはっきりさせておく</a>
+<a href="http://portaltan.hatenablog.com/entry/2015/11/30/171408">Gemfile/Gemfile.lock/gemspec/Rakefileそれぞれの違い・役割</a>

@@ -8,6 +8,11 @@
 #### 動的型付けのスクリプト言語
 - [ ] Pyhon
 - [ ] Ruby
+  - [ ] <a href="https://www.ruby.or.jp/ja/certification/examination/">Ruby 技術者検定</a>
+  - [ ] <a href="http://www.minituku.net/drills/775230600.html">Rubyがミニツク</a>
+
+
+
 - [ ] PHP
 - [ ] node.js
 

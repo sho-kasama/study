@@ -7,7 +7,7 @@
 2. Bundlerとは <be>
   2.1 Gemfile/Gemfile.lock/gemspecの違いとは <br>
   2.2 bundle install/bundle updateの違いとは<br>
-3.
+
 
 ## 0. Rubyのライブラリ
 

@@ -392,8 +392,7 @@ ________________________________________________________________________________
 
 
 <a href="https://github.com/sho-kasama/study/blob/master/Book.md">書籍について学んだこと & アウトプットのリンク先を貼ってます</a>
-
-
+<a href="https://github.com/sho-kasama/study/blob/master/Rails.md">Railsを取得するために必要な技術要素の一覧</a>
 
 
 

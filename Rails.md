@@ -24,6 +24,9 @@
 - [ ] RVM&rbenv
 - [ ] Gem
   - [ ] ファイル構成
+    - [ ] <a href="http://railsdoc.com/rails_base">ファイル名の規約</a>
+    - [ ] <a href="https://qiita.com/noraworld/items/07a2e9411eb74262a116">ディレクトリ構成から見る Rails 初心者のための Mastodon 開発講座</a>
+  
   - [ ] オープンソースのエチケット
   - [ ] Bundler&依存関係の管理
 

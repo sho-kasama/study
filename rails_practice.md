@@ -86,13 +86,13 @@ MVC(Model-View-Controller)アーキテクチャのViewとControllerの役割を�
 
 
 #### 解説
-Action PackはMVC(Model-View-Controller)アーキテクチャにおけるV及びC(View-Controller)の機能に提供するRailsのコンポーネントです。<br>
-Action PackはVとCにあたる機能を一度に提供しますが、コントローラーの機能はActionContorllerにまとめられており<br>
-ビューの機能はAction Viewにまとめられています。
-Action RecordはRailsにO/Rマッピング(ORM)の機能を提供するコンポーネントです。<br>
-Action Recordを使うことでモデルのオブジェクトと関連付いたテーブルのレコードが対応付けられます。<br>
-Action SupportはRailsを便利に様々なユーティリティクラスと標準ライブラリの拡張を集めたものです<br>
-Active ResourceはRailsのアプリケーションから外部のRESTfulなAPIにアクセスする時の機能を提供するコンポーネントです。<br>
+`Action Pack`はMVC(Model-View-Controller)アーキテクチャにおけるV及びC(View-Controller)の機能に提供するRailsのコンポーネントです。<br>
+`Action Pack`はVとCにあたる機能を一度に提供しますが、コントローラーの機能はActionContorllerにまとめられており<br>
+ビューの機能は`Action View`にまとめられています。
+`Action Record`はRailsにO/Rマッピング(ORM)の機能を提供するコンポーネントです。<br>
+`Action Record`を使うことでモデルのオブジェクトと関連付いたテーブルのレコードが対応付けられます。<br>
+`Action Support`はRailsを便利に様々なユーティリティクラスと標準ライブラリの拡張を集めたものです<br>
+`Active Resource`はRailsのアプリケーションから外部のRESTfulなAPIにアクセスする時の機能を提供するコンポーネントです。<br>
 
 
 

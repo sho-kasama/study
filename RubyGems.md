@@ -1,13 +1,28 @@
 
 # 目次
 
+0. Rubyのライブラリ
 1. RubyGemsとは <br>
-  1.1 Gemfileの-> という記号はどういう意味なのか <br>
+1.1 Gemfileの-> という記号はどういう意味なのか <br>
 2. Bundlerとは <be>
   2.1 Gemfile/Gemfile.lockとは <br>
   2.2 bundle install/bundle updateの違いとは<br>
 3.
 
+## 0. Rubyのライブラリ
+
+Rubyのライブラリはgemという形式にまとめてrubygems.orgにて配布されるのが一般的です。<br>
+gemには以下のような有用な情報が含まれます。<br>
+
+・ メタデータ。名前、バージョン、説明、著者のメアドなど。 <br>
+・ 含まれるファイルのリスト <br>
+・ 実行ファイルとその場所のリスト (binなど) <br>
+・ Rubyのload pathに含まれるべきパスのリスト(lib)など。 <br>
+・ 必要となる他のライブラリ(依存関係) <br>
+
+最後の「依存関係」というのがGemfileと重なるところ。<br>
+Gemが依存関係を記述するときは、名前とバージョンを範囲をリストアップします。<br>
+個々で重要なのは依存先ライブラリのソースについては気にしないということです。
 
 
 
@@ -87,7 +102,36 @@ Gem に限らずパッケージの依存関係を管理することが安定の�
 gem install bundler
 `
 
+## 2.1 Gemfile/Gemfile.lock/gemspecとは
 
+#### Gemfile
+Gemの取得先を記述する<br>
+通常はsourceとgemspecの2行、もしくはsourceの1行だけだいい<br>               
+
+
+#### Gemfile.lockとは
+開発環境と運用環境(production)とで同じでgemをインストールするために使います。<br>
+`bundle`などで自動で生成されます。<br>
+installしたgemのversionや取得先が記録される<br>
+依存gemのバージョンと取得先が記録されます。<br>
+
+
+#### gemspecとは
+
+実際の情報を記述するファイル
+```
+Gem::Specification.new do |s|
+  s.authors = []
+  s.homepage = ''
+・
+・
+・
+```
+gemの依存関係をgemの情報を記述するファイル
+```
+s.add_dependency '*****'
+s.add_development_dependency '***'
+```
 
 
 
@@ -103,5 +147,5 @@ gem install bundler
 <a href="https://qiita.com/mochikichi321/items/ee0b7133524816f73e60">Bundlerを使ったGem管理について</a>  <br>
 <a href="https://nishinatoshiharu.com/about-bundler/">意外とよくわかっていないbundlerについて</a> <br>
 <a href="https://yu8mada.com/2018/04/22/what-does-tilde-greater-than-sign-mean-in-gemfile/">Gemfile の ~> という記号はどういう意味なのか</a> <br>
-<a href=""></a>
-<a href=""></a>
+<a href="https://qiita.com/tnoda_/items/a04e761d595a742fcdca">gemspec と Gemfile と Gemfile.lock との違い．</a>
+<a href="http://sanemat.github.io/archives/langturn.com-translations-33/">gemspecとGemfileの役割をはっきりさせておく</a>

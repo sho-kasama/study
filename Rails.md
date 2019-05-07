@@ -179,7 +179,9 @@
 - [ ] スロー & クエリの記録
 - [ ] クエリプラン
 - [ ] N + 1 問題の回避
-
+  - [ ] <a href="https://qiita.com/free_man/items/857d8af72a0711908f20">N+1の予感がしたらincludesを追加🔎</a>
+  - [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20141108/1415418367">N+1問題 / Eager Loading とは</a>
+  - [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20141109/1415522242">Railsでbulletを使ってN+1問題を発見しDBアクセスのパフォーマンスを向上させる</a>
 
 
 

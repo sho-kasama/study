@@ -231,8 +231,7 @@
 
 ## 24, All the things that weren't mentioned above
 
-
-
+- [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
 
 
 

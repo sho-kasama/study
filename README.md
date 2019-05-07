@@ -51,7 +51,7 @@
 - [ ] コーディング規約
   - [ ] <a href="https://github.com/cookpad/styleguide/blob/master/ruby.ja.md">cookpad/styleguide</a>
   - [ ] <a href="https://github.com/airbnb/ruby">airbnb/ruby</a>
-  - [ ] still
+  - [ ] <a href="https://qiita.com/haracane/items/03a38db2cc299bce0537">Rubyコーディング規約</a>
   - [ ] still
 
 

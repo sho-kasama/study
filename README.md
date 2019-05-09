@@ -262,7 +262,7 @@ ________________________________________________________________________________
 - [ ] HTMLサイト作成 ( 最低5ページ )
   - [ ] <a href="https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5">【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！</a>
   - [ ] <a href="https://qiita.com/shumatsukishu/items/8dfedd82ecff89085968">駆け出しエンジニアのUI設計をちゃんとする</a>
-  - [ ] 
+  - [ ] <a href="https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607">もう逃げない。HTMLのviewportをちゃんと理解する</a>
   - [ ] 
   - [ ] 
   - [ ] 

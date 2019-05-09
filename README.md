@@ -142,6 +142,7 @@
   - [ ] <a href="https://qiita.com/shimo_513/items/a58c0b44152f2a5c2ac6">APIが身近に感じられない人が身近に感じるための記事</a> <br>
   - [ ] <a href="https://qiita.com/k-penguin-sato/items/defdb828bd54729272ad">【Rails】RailsAPIテストの書き方</a>  <br> 
   - [ ] <a href="https://matthewlehner.net/rails-api-testing-guidelines">Rails API Testing Best Practices</a> <br>
+  - [ ] <a href="https://jp.quora.com/Web%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BREST%E3%82%84RESTful%E3%81%A8%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B-%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AF%E7%84%A1%E3%81%84%E3%82%82%E3%81%AE/answers/82182655?ch=10&share=44a3871c&srid=M5C06">Web開発におけるRESTやRESTfulとはなんですか？そうでは無いものとは何が違うのですか？</a>
 
 
 

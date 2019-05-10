@@ -236,6 +236,7 @@
 ## 24, All the things that weren't mentioned above
 
 - [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
+- [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
 
 
 

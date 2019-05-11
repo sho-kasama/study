@@ -360,6 +360,9 @@ ________________________________________________________________________________
 
 
 - [ ] Vue
+- [ ] <a href="https://qiita.com/suuungwoo/items/15941c1ae0762fb566e6">Vue.js概要【初心者】</a>
+- [ ] <a href="https://qiita.com/plus_kyoto/items/a01578b782f17f573510">フロント未学習の大学生が1週間でVue.jsを使ったポートフォリオを作った話</a>
+
   - [ ] Vuex
 
 

@@ -241,6 +241,7 @@
 
 - [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
 - [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
+- [ ] <a href="https://reasonable-code.com/git-origin">Gitでよく使う「origin」って何？わかりやすく説明します</a>
 
 
 

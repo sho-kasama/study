@@ -412,7 +412,7 @@ ________________________________________________________________________________
 
 <a href="https://github.com/sho-kasama/study/blob/master/Book.md">書籍について学んだこと & アウトプットのリンク先を貼ってます</a>
 <a href="https://github.com/sho-kasama/study/blob/master/Rails.md">Railsを取得するために必要な技術要素の一覧</a>
-
+<a href="https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3">こんなHTMLとCSSのコーディング規約で書きたい</a>
 
 
 

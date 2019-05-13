@@ -123,6 +123,7 @@
 ## 14, NoSQL/Caching
 
 - [ ] Memcached
+  - [ ] セッションの保管場所として、Railsのキャッシュ、データーベース、memcachedといった選択肢がある
 
 - [ ] Redis
 

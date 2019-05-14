@@ -13,6 +13,7 @@
   - [ ] <a href="https://www.ruby.or.jp/ja/certification/examination/">Ruby 技術者検定</a>
   - [ ] <a href="http://www.minituku.net/drills/775230600.html">Rubyがミニツク</a>
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/rails_practice.md">問題を解いたのをまとめた</a>
+  - [ ] <a href="https://qiita.com/ngron/items/4d3ca9827d1969fccd60">【Ruby】使いこなせると便利。||演算子のいろんな使い方</a>
 
 
 
@@ -170,6 +171,7 @@
 
 
 - [ ] BASIC認証
+  - [ ] <a href="https://qiita.com/r7kamura/items/69904137ea20b6b86822">Basic認証とOAuth</a>
 - [ ] トークン認証
 - [ ] JWT — JSON Web Tokens
 - [ ] OpenID
@@ -243,6 +245,7 @@
 - [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
 - [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
 - [ ] <a href="https://reasonable-code.com/git-origin">Gitでよく使う「origin」って何？わかりやすく説明します</a>
+- [ ] <a href="https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html">has_secure_passwordとは?</a>
 
 
 

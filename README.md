@@ -230,6 +230,11 @@
 
 ## 24, All the things that weren't mentioned above
 
+- [ ] Rails debug 
+
+
+
+
 
 
 

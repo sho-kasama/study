@@ -1,5 +1,5 @@
 
-# スッキリわかるSQL入門 ( まだいまいちsqlについて理解できていなかったのでとてもいい ) 
+# <a href="https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%8F%E3%81%8B%E3%82%8Bsql&adgrpid=48773741890&gclid=EAIaIQobChMImvn75Iqg4gIVAq6WCh0NgQvgEAAYASAAEgIIVvD_BwE&hvadid=338539266199&hvdev=c&hvlocphy=9053344&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=3541034632610479616&hvtargid=kwd-333099714859&hydadcr=27263_11561109&jp-ad-ap=0&tag=googhydr-22&ref=pd_sl_7uh1nsuse_e">スッキリわかるSQL入門 ( まだいまいちsqlについて理解できていなかったのでとてもいい ) </a>
 
 
 

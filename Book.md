@@ -54,6 +54,7 @@
 
 
 - [ ] <a href="https://dokoql.com/">doco QL</a>
+- [ ] <a href="">スッキリわかるSQL入門まとめ</a>
 
 ## SQL を始めよう
 - [ ] はじめてのSQL

@@ -50,7 +50,7 @@
 
 ### スッキリわかるSQL入門
 
-- [ ] <a href="https://dokoql.com/">演習用</a>
+- [ ] <a href="https://dokoql.com/">doco QL</a>
 
 - [ ] テーブル名および列名
 - [ ] 末尾のセミコロンで文の終了を表す

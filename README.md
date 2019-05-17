@@ -267,6 +267,7 @@ ________________________________________________________________________________
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/semantics.md">セマンティックなhtmlについて調べてみた</a>
 - [ ] セマンティックなHTMLの基本と作成方法
 - [ ] DOMを適切に構造化する方法
+- [ ] <a href="https://qiita.com/dazi_gomi/items/faa7cfba68e81db7246">きちんとマークアップすると爆速でコピペできる</a>
 
 #### Task
 
@@ -284,6 +285,7 @@ ________________________________________________________________________________
 - [ ] box model
 - [ ] Grid layout
 - [ ] Flexbox
+  - [ ] <a href="https://flexboxfroggy.com/#ja">FLEXBOX FROGGY</a>
 - [ ] Media Queries
   - [ ] <a href="https://www.seojuku.com/blog/responsive-mediaquery.html">レスポンシブ・ CSSメディアクエリ ブレイクポイント(まとめ)
 

@@ -48,6 +48,7 @@
 
 - [ ] RubyGems
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
+  - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント</a>
 
 ## 4, Standards and Best Practices
 

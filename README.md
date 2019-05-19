@@ -56,7 +56,7 @@
   - [ ] <a href="https://github.com/cookpad/styleguide/blob/master/ruby.ja.md">cookpad/styleguide</a>
   - [ ] <a href="https://github.com/airbnb/ruby">airbnb/ruby</a>
   - [ ] <a href="https://qiita.com/haracane/items/03a38db2cc299bce0537">Rubyコーディング規約</a>
-  - [ ] still
+  - [ ] <a href="https://shugo.net/ruby-codeconv/codeconv.html">Rubyコーディング規約</a>
 
 
 
@@ -82,6 +82,7 @@
   - [ ] <a href="https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5">使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす</a>
   - [ ] <a href="https://qiita.com/jnchito/items/640f17e124ab263a54dd">使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」</a>
   - [ ] <a href="https://qiita.com/jnchito/items/607f956263c38a5fec24">使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」</a>
+  - [ ] <a href="http://i.loveruby.net/ja/rhg/book/">Rubyソースコード解説</a>
 
 
 

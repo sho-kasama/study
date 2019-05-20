@@ -112,13 +112,44 @@
 
 
 
-- [ ] Oracle
 
-- [ ] MariaDB
+- リレーショナル型データベース
+ - [PostgreSQL](http://www.postgresql.org/)
+ - [MySQL](https://www-jp.mysql.com/)
+ - [SQLite](https://www.sqlite.org/)
+ - [Microsoft SQL server](https://www.microsoft.com/ja-jp/server-cloud/products-SQL-Server-2014.aspx)
+ - [oracle](http://www.oracle.com/jp/database/overview/index.html)
+ - [db2](http://www-01.ibm.com/software/jp/info/db2/)
+ <br>
+- カラム指向型データベース（列指向型） 
+ - [PureData System for Analytics（旧Netezza）](http://www-01.ibm.com/software/jp/info/puredata/analytics.html)
+ - [exadata](http://www.oracle.com/jp/engineered-systems/exadata/overview/index.html)
+ - [SAP HANA](http://go.sap.com/japan/product/technology-platform/hana-on-premise.html)
+ - [Cassandra](http://cassandra.apache.org/) 
+ - [DynamoDB](http://aws.amazon.com/jp/documentation/dynamodb/)
+ - [memcached](http://memcached.org/)
+ - [redis](http://redis.io/)
+ - [bigtable](https://cloud.google.com/bigtable/?hl=ja)
+ - [hbase](https://hbase.apache.org/)
+ <br>
+- ドキュメント指向型データベース
+ - [mongodb](https://www.mongodb.org/) 
+ - [couchdb](http://couchdb.apache.org/)
+ <br>
+- グラフデータベース
+ - [neo4j](http://neo4j.com/)
+ <br>
+- 時系列データベース
+ - [Graphite](http://graphite.readthedocs.org/en/latest/#)
+ - [InfluxDB](https://influxdata.com/)
+ - [opentsdb](http://opentsdb.net/)
 
-- [ ] PostgreSQl
 
-- [ ] MSSQL
+
+
+
+
+
 
 
 ## 10, Pracice Time

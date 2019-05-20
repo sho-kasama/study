@@ -114,23 +114,23 @@
 
 
 - リレーショナル型データベース
- - [PostgreSQL](http://www.postgresql.org/)
- - [MySQL](https://www-jp.mysql.com/)
- - [SQLite](https://www.sqlite.org/)
- - [Microsoft SQL server](https://www.microsoft.com/ja-jp/server-cloud/products-SQL-Server-2014.aspx)
- - [oracle](http://www.oracle.com/jp/database/overview/index.html)
- - [db2](http://www-01.ibm.com/software/jp/info/db2/)
+ - [PostgreSQL](http://www.postgresql.org/)<br>
+ - [MySQL](https://www-jp.mysql.com/)<br>
+ - [SQLite](https://www.sqlite.org/)<br>
+ - [Microsoft SQL server](https://www.microsoft.com/ja-jp/server-cloud/products-SQL-Server-2014.aspx)<br>
+ - [oracle](http://www.oracle.com/jp/database/overview/index.html)<br>
+ - [db2](http://www-01.ibm.com/software/jp/info/db2/)<br>
  <br>
 - カラム指向型データベース（列指向型） 
- - [PureData System for Analytics（旧Netezza）](http://www-01.ibm.com/software/jp/info/puredata/analytics.html)
- - [exadata](http://www.oracle.com/jp/engineered-systems/exadata/overview/index.html)
- - [SAP HANA](http://go.sap.com/japan/product/technology-platform/hana-on-premise.html)
- - [Cassandra](http://cassandra.apache.org/) 
- - [DynamoDB](http://aws.amazon.com/jp/documentation/dynamodb/)
- - [memcached](http://memcached.org/)
- - [redis](http://redis.io/)
- - [bigtable](https://cloud.google.com/bigtable/?hl=ja)
- - [hbase](https://hbase.apache.org/)
+ - [PureData System for Analytics（旧Netezza）](http://www-01.ibm.com/software/jp/info/puredata/analytics.html)<br>
+ - [exadata](http://www.oracle.com/jp/engineered-systems/exadata/overview/index.html)<br>
+ - [SAP HANA](http://go.sap.com/japan/product/technology-platform/hana-on-premise.html)<br>
+ - [Cassandra](http://cassandra.apache.org/) <br>
+ - [DynamoDB](http://aws.amazon.com/jp/documentation/dynamodb/)<br>
+ - [memcached](http://memcached.org/)<br>
+ - [redis](http://redis.io/)<br>
+ - [bigtable](https://cloud.google.com/bigtable/?hl=ja)<br>
+ - [hbase](https://hbase.apache.org/)<br>
  <br>
 - ドキュメント指向型データベース
  - [mongodb](https://www.mongodb.org/) 

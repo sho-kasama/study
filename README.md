@@ -113,7 +113,7 @@
 
 
 
-- リレーショナル型データベース
+- リレーショナル型データベース<br>
  - [PostgreSQL](http://www.postgresql.org/)<br>
  - [MySQL](https://www-jp.mysql.com/)<br>
  - [SQLite](https://www.sqlite.org/)<br>
@@ -121,7 +121,7 @@
  - [oracle](http://www.oracle.com/jp/database/overview/index.html)<br>
  - [db2](http://www-01.ibm.com/software/jp/info/db2/)<br>
  <br>
-- カラム指向型データベース（列指向型） 
+- カラム指向型データベース（列指向型） <br>
  - [PureData System for Analytics（旧Netezza）](http://www-01.ibm.com/software/jp/info/puredata/analytics.html)<br>
  - [exadata](http://www.oracle.com/jp/engineered-systems/exadata/overview/index.html)<br>
  - [SAP HANA](http://go.sap.com/japan/product/technology-platform/hana-on-premise.html)<br>
@@ -132,14 +132,14 @@
  - [bigtable](https://cloud.google.com/bigtable/?hl=ja)<br>
  - [hbase](https://hbase.apache.org/)<br>
  <br>
-- ドキュメント指向型データベース
+- ドキュメント指向型データベース<br>
  - [mongodb](https://www.mongodb.org/) 
  - [couchdb](http://couchdb.apache.org/)
  <br>
 - グラフデータベース
  - [neo4j](http://neo4j.com/)
  <br>
-- 時系列データベース
+- 時系列データベース<br>
  - [Graphite](http://graphite.readthedocs.org/en/latest/#)
  - [InfluxDB](https://influxdata.com/)
  - [opentsdb](http://opentsdb.net/)

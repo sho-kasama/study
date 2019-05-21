@@ -297,7 +297,7 @@
 - [ ] <a href="https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html">has_secure_passwordとは?</a>
 - [ ] <a href="https://nrslib.com/event-after-introduction-to-web/">Web基礎</a>
 - [ ] <a href="https://qiita.com/upinetree/items/273ae574f1c021d24c37">Railsアプリの例外ハンドリングとエラーページの表示についてまとめてみた</a>
-- [ ] <a href="">何かアプリを作る</a>
+- [ ] <a href="https://qiita.com/tos-miyake/items/8dffb16273726f538d49">railsのdefaultでは用意されていない考え方や設計、リファクタリングについてのリンク集</a>
 
 
 _________________________________________________________________________________________________________________________

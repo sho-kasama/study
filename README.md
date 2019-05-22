@@ -51,8 +51,9 @@
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
   - [ ] <a href="https://www.rubydoc.info/github/sparklemotion/nokogiri">nokogiri</a>
     - [ ] <a href="https://qiita.com/rllllho/items/cb1187cec0fb17fc650a">クローラ作成に必須！XPATHの記法まとめ</a>
-    - [ ] <a href="https://qiita.com/seiya1121/items/3dde2dae7319fe261323">松岡修造のサイトから名言を取得する</a>
     - [ ] <a href="http://inobo52.hatenablog.com/entry/2014/09/04/Ruby%E3%81%A7HTML%E8%A7%A3%E6%9E%90%E3%81%8C%E8%B6%85%E4%BD%99%E8%A3%95%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99">RubyでHTML解析が超余裕なんです</a>
+    - [ ] <a href="https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/#7">Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル]
+2014-05-02</a>
 
 ## 4, Standards and Best Practices
 

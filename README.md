@@ -49,6 +49,9 @@
 - [ ] RubyGems
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
+  - [ ] <a href="https://www.rubydoc.info/github/sparklemotion/nokogiri">nokogiri</a>
+    - [ ] <a href="https://qiita.com/rllllho/items/cb1187cec0fb17fc650a">クローラ作成に必須！XPATHの記法まとめ</a>
+    - [ ] <a href="https://qiita.com/seiya1121/items/3dde2dae7319fe261323">松岡修造のサイトから名言を取得する</a>
 
 ## 4, Standards and Best Practices
 

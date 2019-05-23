@@ -22,4 +22,4 @@
 
 
 ## 参考にしてる人
-<a href="https://www.pinterest.jp/sankoudesign/">
+<a href="https://www.pinterest.jp/sankoudesign/">pinterest</a>

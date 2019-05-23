@@ -19,3 +19,7 @@
     
     - js
       - jQueryが使われていた
+
+
+## 参考にしてる人
+<a href="https://www.pinterest.jp/sankoudesign/">

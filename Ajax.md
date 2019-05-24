@@ -121,8 +121,8 @@ src="http://another.domain.example.com/getjson?callback=parseResponse'>
 
 <script>タグでJSONを呼び出すとコールバック関数を使ってJSONデータを処理します。<br>
 このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。<br>
- 詳しくは⬇︎
- <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a>
+詳しくは⬇︎
+<a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a>
 
 
 
@@ -160,14 +160,5 @@ HTMLの<script>要素を用いると、複数のサイトからJavaScriptファ�
 
 上記の例では複数のドメイン（example.jpと example.com)からJavaScriptファイルを読み込んでいます。<br>
 <script>要素は歴史的理由により通常はブラウザのセキュリティ制限を受けません<br>
-
-
-
-
-
-
-
-
-
 
 

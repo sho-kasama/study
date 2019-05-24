@@ -26,8 +26,7 @@ Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非
 * クライアントから非同期更新に必要なデータをサーバーに送る<br>
 * サーバーはデータを受け取ってクライアントに整形済データを返す<br>
 * クライアントはサーバから受け取った整形済データをDOMに反映する<br>
-<br>
-<br>
+
 
 ざっくりこのような流れでAjaxは実現されてる。<br>
 クライアントからデータを送ったり、サーバから整形済データが返ってきたと検知するところにJavascriptのXTR(XMLHttpRequest)という技術が使われていて、<br>
@@ -48,12 +47,10 @@ JSONはJavaScript Object Notationの略で、<a href="http://pentan.info/doc/rfc
 その名が示す通り、JavaScriotの記法でデータを記述できる点が最大の特徴です。語法はJavaScriptですが、そのシンプルさから多くの言語がライブラリを用意しているためa<br>
 プログラミング言語間でデータを受け渡せます。<br>
 
-<br>
+
 WebサービスではブラウザがJavaScriptを実行できるので相性が良いこと、XMLと比べてデータ表現の冗長性が低いことなどかの利点から<br>
 Ajax通信に置けるデータフォーマットとして活用されます、
 
-<br>
-<br>
 
 
 ### メディアタイプ
@@ -64,8 +61,7 @@ JSONのメディアタイプは「application/json」です。<br>
 
  XMLやHTMLと同様に特別な理由がない限りはUTF-8を使うのが無難です。
  
-<br>
-<br>
+
  
 ### データ型
  
@@ -78,7 +74,7 @@ JSONのメディアタイプは「application/json」です。<br>
  * ブーリアン
  * null
  
-<br>
+
 
 
 #### オブジェクト
@@ -103,6 +99,18 @@ JSONのメディアタイプは「application/json」です。<br>
 
 
 <br>
+
+#### クロスドメイン通信の制限
+
+JSONPを説明する前に、なぜJSONPが必要になるのかの背景をせつめい<br>
+
+Ajaxで用いるXMLHttpRequest という JavaScriptのモジュールはセキュリティ上の制限からJavaScriptファイルを取得したのと同じサーバとしか通信できません<br>
+JavaScriptが在るサーバとは別のサーバと通信できてしまうと、ブラウザで入力した情報をユーザが知らない間に不正なサーバに送信できてしまうからです。<br>
+ちなみに、このように不特定多数のドメインに属するサーバにアクセスすることを「クロスドメイン通信」(ドメインをまたがった通信の意）と呼びます<br>
+<br>
+<br>
+しかし、複数のドメインのサーバと通信できず、単一のドメインのみと通信をしなければならないのは大きな制限です。<br>
+たとえば、自サービスでは地図データと郵便番号データを保持せずに、それらを提供している他のWeb API( Google map, ぐるなびのapiとか)から適宜取得することができないからです。<br>
 
 
 ## 3.JSONPとは
@@ -132,41 +140,5 @@ src="http://another.domain.example.com/getjson?callback=parseResponse'>
 <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a>
 
 <br>
-
-#### クロスドメイン通信の制限
-
-JSONPを説明する前に、なぜJSONPが必要になるのかの背景をせつめい<br>
-Ajaxで用いるXMLHttpRequest という JavaScriptのモジュールはセキュリティ上の制限からJavaScriptファイルを取得したのと同じサーバとしか通信できません<br>
-JavaScriptが在るサーバとは別のサーバと通信できてしまうと、ブラウザで入力した情報をユーザが知らない間に不正なサーバに送信できてしまうからです。<br>
-ちなみに、このように不特定多数のドメインに属するサーバにアクセスすることを「クロスドメイン通信」(ドメインをまたがった通信の意）と呼びます<br>
-<br>
-<br>
-しかし、複数のドメインのサーバと通信できず、単一のドメインのみと通信をしなければならないのは大きな制限です。<br>
-たとえば、自サービスでは地図データと郵便番号データを保持せずに、それらを提供している他のWeb API( Google map, ぐるなびのapiとか)から適宜取得することができないからです。<br>
-
-
-#### <script>要素による解決
- 
-
-XMLHttpRequestではクロスドメイン通信ができませんが、代替手段があります。<br>
-HTMLの<script>要素を用いると、複数のサイトからJavaScriptファイルを読み込める<br>
- 
- 
- ```
-  <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-      <script src="http://example.jp/map.js"></script>
-      <script src="http://example.com/zip.js"></script>
-      ...
-    </head>
-    ...
-  </html>
- 
- ```
-<br>
-<br>
-
-上記の例では複数のドメイン（example.jpと example.com)からJavaScriptファイルを読み込んでいます。<br>
-<script>要素は歴史的理由により通常はブラウザのセキュリティ制限を受けません<br>
 
 

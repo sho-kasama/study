@@ -39,6 +39,11 @@ Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非
 
 ## JSONとは
 
+`
+json   # データ記法 
+jsonp  # コールバック関数
+`
+
 JSONはJavaScript Object Notationの略で、<a href="http://pentan.info/doc/rfc/j4627.html">RFC4627が規定するデータ記述言語です</a><br>
 その名が示す通り、JavaScriotの記法でデータを記述できる点が最大の特徴です。語法はJavaScriptですが、そのシンプルさから多くの言語がライブラリを用意しているためa<br>
 プログラミング言語間でデータを受け渡せます。<br>
@@ -114,6 +119,64 @@ JavaScriptが在るサーバとは別のサーバと通信できてしまうと�
 <br>
 しかし、複数のドメインのサーバと通信できず、単一のドメインのみと通信をしなければならないのは大きな制限です。<br>
 たとえば、自サービスでは地図データと郵便番号データを保持せずに、それらを提供している他のWeb API( Google map, ぐるなびのapiとか)から適宜取得することができないからです。<br>
+
+
+#### <script>要素による解決
+ 
+
+XMLHttpRequestではクロスドメイン通信ができませんが、代替手段があります。<br>
+HTMLの<script>要素を用いると、複数のサイトからJavaScriptファイルを読み込める
+ 
+ 
+ ```
+  <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <script src="http://example.jp/map.js"></script>
+      <script src="http://example.com/zip.js"></script>
+      ...
+    </head>
+    ...
+  </html>
+ 
+ ```
+<br>
+<br>
+
+上記の例では複数のドメイン（example.jpと example.com)からJavaScriptファイルを読み込んでいます。<br>
+<script>要素は歴史的理由により通常はブラウザのセキュリティ制限を受けません<br>
+<br>
+ 
+
+#### コールバック関数を活用するJSONP 
+
+<br>
+JSONPは、ブラウザのこの性質を利用してクロスドメイン通信を実現する手法です。<br>
+JSONPはオリジナルのJSONをクライアントが指定したコールバック関数名でラップしてドメインの異なるデータを取得する。<br>
+
+<br>
+
+JSONPをつかったクロスドメイン通信の概略を示します。<br>
+
+
+
+```
+<html xmlns="http://www.w3.org/1999/html">
+  <head>
+    <title>クロスドメイン通信の例</title>
+  </head>
+  
+  <body>
+    <script type="text/javascript">
+      function foo(zip) {
+         alert(zip["zipcode"]);
+      }
+      
+      </script>
+      <script src="http://zip.ricollab.jp/1120002.json?callback=foo"></script>
+   </body>
+ </html>
+
+```
 
 
 

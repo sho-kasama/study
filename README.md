@@ -48,6 +48,12 @@
 
 - [ ] RubyGems
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
+  - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
+  - [ ] <a href="https://www.rubydoc.info/github/sparklemotion/nokogiri">nokogiri</a>
+    - [ ] <a href="https://qiita.com/rllllho/items/cb1187cec0fb17fc650a">クローラ作成に必須！XPATHの記法まとめ</a>
+    - [ ] <a href="http://inobo52.hatenablog.com/entry/2014/09/04/Ruby%E3%81%A7HTML%E8%A7%A3%E6%9E%90%E3%81%8C%E8%B6%85%E4%BD%99%E8%A3%95%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99">RubyでHTML解析が超余裕なんです</a>
+    - [ ] <a href="https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/#7">Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル]
+2014-05-02</a>
 
 ## 4, Standards and Best Practices
 
@@ -55,7 +61,7 @@
   - [ ] <a href="https://github.com/cookpad/styleguide/blob/master/ruby.ja.md">cookpad/styleguide</a>
   - [ ] <a href="https://github.com/airbnb/ruby">airbnb/ruby</a>
   - [ ] <a href="https://qiita.com/haracane/items/03a38db2cc299bce0537">Rubyコーディング規約</a>
-  - [ ] still
+  - [ ] <a href="https://shugo.net/ruby-codeconv/codeconv.html">Rubyコーディング規約</a>
 
 
 
@@ -77,7 +83,11 @@
 ## 7, Learn about Testing
 
 - [ ] Rspec
-  - [ ] Qiitaとかはってく
+  - [ ] <a href="https://qiita.com/jnchito/items/42193d066bd61c740612">使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」</a>
+  - [ ] <a href="https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5">使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす</a>
+  - [ ] <a href="https://qiita.com/jnchito/items/640f17e124ab263a54dd">使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」</a>
+  - [ ] <a href="https://qiita.com/jnchito/items/607f956263c38a5fec24">使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」</a>
+  - [ ] <a href="http://i.loveruby.net/ja/rhg/book/">Rubyソースコード解説</a>
 
 
 
@@ -93,14 +103,58 @@
 - [ ] DB
 
 - [ ] SQL
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/9b70e506150888e190be">【新人教育 資料】SQLへの道 〜DB編〜</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/9c10410b50f8fcc2ba79">【新人教育 資料】第2章 SQLへの道 〜3値論理編〜
+</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/08e405a9c58cc203d016">【新人教育 資料】第3章 SQLへの道 〜基本数学編〜</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/0f742158caf0fdb533e3">【新人教育 資料】第4章 SQLへの道 〜SQL基本操作編〜</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/dca5aa9c155292f1c6ea">【新人教育 資料】第5章 SQLへの道 〜絞込編〜
+</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/8cad032aa035dc1cdbc0">【新人教育 資料】第6章 SQLへの道 〜ソート編〜</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/85918c8508dddf19586f">【新人教育 資料】第7章 SQLへの道 〜集合関数（SUM、MAX、MIN、AVG、COUNT）編〜</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/f74228615982932c914b">【新人教育 資料】第8章 SQLへの道 〜グループ編〜</a> <br>
+  - [ ] <a href="https://qiita.com/devopsCoordinator/items/3ba154429973a4ddc9e0">【新人教育 資料】第9章 SQLへの道 〜結合編〜</a> <br>
 
-- [ ] Oracle
 
-- [ ] MariaDB
 
-- [ ] PostgreSQl
 
-- [ ] MSSQL
+- リレーショナル型データベース<br>
+ - [PostgreSQL](http://www.postgresql.org/)<br>
+ - [MySQL](https://www-jp.mysql.com/)<br>
+ - [SQLite](https://www.sqlite.org/)<br>
+ - [Microsoft SQL server](https://www.microsoft.com/ja-jp/server-cloud/products-SQL-Server-2014.aspx)<br>
+ - [oracle](http://www.oracle.com/jp/database/overview/index.html)<br>
+ - [db2](http://www-01.ibm.com/software/jp/info/db2/)<br>
+ <br>
+- カラム指向型データベース（列指向型） <br>
+ - [PureData System for Analytics（旧Netezza）](http://www-01.ibm.com/software/jp/info/puredata/analytics.html)<br>
+ - [exadata](http://www.oracle.com/jp/engineered-systems/exadata/overview/index.html)<br>
+ - [SAP HANA](http://go.sap.com/japan/product/technology-platform/hana-on-premise.html)<br>
+ - [Cassandra](http://cassandra.apache.org/) <br>
+ - [DynamoDB](http://aws.amazon.com/jp/documentation/dynamodb/)<br>
+ - [memcached](http://memcached.org/)<br>
+ - [redis](http://redis.io/)<br>
+ - [bigtable](https://cloud.google.com/bigtable/?hl=ja)<br>
+ - [hbase](https://hbase.apache.org/)<br>
+ <br>
+- ドキュメント指向型データベース<br>
+ - [mongodb](https://www.mongodb.org/) 
+ - [couchdb](http://couchdb.apache.org/)
+ <br>
+- グラフデータベース
+ - [neo4j](http://neo4j.com/)
+ <br>
+- 時系列データベース<br>
+ - [Graphite](http://graphite.readthedocs.org/en/latest/#)
+ - [InfluxDB](https://influxdata.com/)
+ - [opentsdb](http://opentsdb.net/)
+
+
+
+
+
+
+
 
 
 ## 10, Pracice Time
@@ -255,8 +309,14 @@
 - [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
 - [ ] <a href="https://reasonable-code.com/git-origin">Gitでよく使う「origin」って何？わかりやすく説明します</a>
 - [ ] <a href="https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html">has_secure_passwordとは?</a>
+<<<<<<< HEAD
 >>>>>>> d5dbadb2b2fcd43c140c2da0772002e14132891c
 
+=======
+- [ ] <a href="https://nrslib.com/event-after-introduction-to-web/">Web基礎</a>
+- [ ] <a href="https://qiita.com/upinetree/items/273ae574f1c021d24c37">Railsアプリの例外ハンドリングとエラーページの表示についてまとめてみた</a>
+- [ ] <a href="https://qiita.com/tos-miyake/items/8dffb16273726f538d49">railsのdefaultでは用意されていない考え方や設計、リファクタリングについてのリンク集</a>
+>>>>>>> 5cd1bf6a9a9947b775a6bb06ae59321bb38b6a38
 
 
 _________________________________________________________________________________________________________________________
@@ -277,6 +337,7 @@ ________________________________________________________________________________
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/semantics.md">セマンティックなhtmlについて調べてみた</a>
 - [ ] セマンティックなHTMLの基本と作成方法
 - [ ] DOMを適切に構造化する方法
+- [ ] <a href="https://qiita.com/dazi_gomi/items/faa7cfba68e81db7246">きちんとマークアップすると爆速でコピペできる</a>
 
 #### Task
 
@@ -294,6 +355,7 @@ ________________________________________________________________________________
 - [ ] box model
 - [ ] Grid layout
 - [ ] Flexbox
+  - [ ] <a href="https://flexboxfroggy.com/#ja">FLEXBOX FROGGY</a>
 - [ ] Media Queries
   - [ ] <a href="https://www.seojuku.com/blog/responsive-mediaquery.html">レスポンシブ・ CSSメディアクエリ ブレイクポイント(まとめ)
 
@@ -419,6 +481,17 @@ ________________________________________________________________________________
 
 - [ ] Vue
   - [ ] Nuxt.js
+
+
+
+## pinterest.jp
+
+1: <a href="http://petitringo.net/about/">COMOCOMO</a>
+
+
+
+
+
 
 
 

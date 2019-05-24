@@ -151,12 +151,25 @@ HTMLの<script>要素を用いると、複数のサイトからJavaScriptファ�
 
 
 
+JSONPはブラウザのこの性質を利用してクロスドメイン通信を実現する手法です<br>
+JSONPハオリジナルノJSONをクライアントが指定したコールバック関数名でラップして、ドメインの異なるサーバーからデータを取得します<br>
 
 
+```
 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>クロスドメイン通信のれい</title>
+  </head>
 
+  <body>
+    <script type="text/jabvascript">
+      function foo(zip) {
+        alert(zip["zipcode"]);
+      }
+    </script>
 
-
-
-
-
+    <script
+      src="http://zip.ricollab.jp/11220002.json?callback=foo"></script>
+  </body>
+</html>

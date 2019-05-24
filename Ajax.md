@@ -106,6 +106,11 @@ JSONのメディアタイプは「application/json」です。<br>
 
 
 ## 3.JSONPとは
+<br>
+JSONP (JSON with padding)とは、scriptタグを使用してクロスドメインな(異なるドメインに存在する)データを取得する仕組みのことである。<br>
+HTMLのscriptタグ、JavaScript(関数),JSONを組み合わせて実現される。<br>
+
+
 
 
 
@@ -146,30 +151,18 @@ HTMLの<script>要素を用いると、複数のサイトからJavaScriptファ�
 <script>要素は歴史的理由により通常はブラウザのセキュリティ制限を受けません<br>
 <br>
  
-
-#### コールバック関数を活用するJSONP
-
-
-
-JSONPはブラウザのこの性質を利用してクロスドメイン通信を実現する手法です<br>
-JSONPハオリジナルノJSONをクライアントが指定したコールバック関数名でラップして、ドメインの異なるサーバーからデータを取得します<br>
+ 
+#### JSONPはXHRだとサイト間をまたいでデータ共有できない制限を回避するために利用されてきた仕組みです
 
 
 ```
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <title>クロスドメイン通信のれい</title>
-  </head>
 
-  <body>
-    <script type="text/jabvascript">
-      function foo(zip) {
-        alert(zip["zipcode"]);
-      }
-    </script>
 
-    <script
-      src="http://zip.ricollab.jp/11220002.json?callback=foo"></script>
-  </body>
-</html>
+```
+ 
+ 
+ 
+ 
+
+

@@ -7,9 +7,13 @@
 
 #### 動的型付けのスクリプト言語
 - [ ] Pyhon
+
+
 - [ ] Ruby
   - [ ] <a href="https://www.ruby.or.jp/ja/certification/examination/">Ruby 技術者検定</a>
   - [ ] <a href="http://www.minituku.net/drills/775230600.html">Rubyがミニツク</a>
+  - [ ] <a href="https://github.com/sho-kasama/study/blob/master/rails_practice.md">問題を解いたのをまとめた</a>
+  - [ ] <a href="https://qiita.com/ngron/items/4d3ca9827d1969fccd60">【Ruby】使いこなせると便利。||演算子のいろんな使い方</a>
 
 
 
@@ -50,7 +54,7 @@
 - [ ] コーディング規約
   - [ ] <a href="https://github.com/cookpad/styleguide/blob/master/ruby.ja.md">cookpad/styleguide</a>
   - [ ] <a href="https://github.com/airbnb/ruby">airbnb/ruby</a>
-  - [ ] still
+  - [ ] <a href="https://qiita.com/haracane/items/03a38db2cc299bce0537">Rubyコーディング規約</a>
   - [ ] still
 
 
@@ -60,6 +64,7 @@
 
 - [ ] SQLインジェクション
 - [ ] XSS
+  - [ ] <a href="http://tech-blog.rakus.co.jp/entry/2017/11/24/110839">要注意！新人エンジニアが発生させた2大脆弱性</a>
 - [ ] CSRF
 - [ ] クラウド(AWSやGCP)上ではIAM等を使用したアクセス制御をなるべく細かく行っておく
 - [ ] 常時SSL化
@@ -119,6 +124,7 @@
 ## 14, NoSQL/Caching
 
 - [ ] Memcached
+  - [ ] セッションの保管場所として、Railsのキャッシュ、データーベース、memcachedといった選択肢がある
 
 - [ ] Redis
 
@@ -138,6 +144,11 @@
   - [ ] <a href="https://qiita.com/shimo_513/items/a58c0b44152f2a5c2ac6">APIが身近に感じられない人が身近に感じるための記事</a> <br>
   - [ ] <a href="https://qiita.com/k-penguin-sato/items/defdb828bd54729272ad">【Rails】RailsAPIテストの書き方</a>  <br> 
   - [ ] <a href="https://matthewlehner.net/rails-api-testing-guidelines">Rails API Testing Best Practices</a> <br>
+  - [ ] <a href="https://jp.quora.com/Web%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BREST%E3%82%84RESTful%E3%81%A8%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B-%E3%81%9D%E3%81%86%E3%81%A7%E3%81%AF%E7%84%A1%E3%81%84%E3%82%82%E3%81%AE/answers/82182655?ch=10&share=44a3871c&srid=M5C06">Web開発におけるRESTやRESTfulとはなんですか？そうでは無いものとは何が違うのですか？</a>
+    - [ ] <a href="https://qiita.com/arx8/items/bc05c06a668bf1de0e72">GitHub上でSwaggerをプレビューできるChrome拡張機能を作った</a>
+    - [ ] <a href="https://qiita.com/gcyata/items/342073fa7607fd4082bd>Swaggerの概要をまとめてみた。</a>
+  - [ ] GraphQl作成
+    - [ ] <a href="https://qiita.com/k-penguin-sato/items/07fef2f26fd6339e0e69">GraphQL Ruby(Class-based Syntax)で簡単なAPIを作成</a>
 
 
 
@@ -160,6 +171,7 @@
 
 
 - [ ] BASIC認証
+  - [ ] <a href="https://qiita.com/r7kamura/items/69904137ea20b6b86822">Basic認証とOAuth</a>
 - [ ] トークン認証
 - [ ] JWT — JSON Web Tokens
 - [ ] OpenID
@@ -230,6 +242,7 @@
 
 ## 24, All the things that weren't mentioned above
 
+<<<<<<< HEAD
 - [ ] Rails debug 
 
 
@@ -237,6 +250,12 @@
 
 
 
+=======
+- [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
+- [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
+- [ ] <a href="https://reasonable-code.com/git-origin">Gitでよく使う「origin」って何？わかりやすく説明します</a>
+- [ ] <a href="https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html">has_secure_passwordとは?</a>
+>>>>>>> d5dbadb2b2fcd43c140c2da0772002e14132891c
 
 
 
@@ -255,16 +274,16 @@ ________________________________________________________________________________
 
 - [x] <a href ="https://developer.mozilla.org/ja/docs/Web/HTML">MDN html</a>
 - [ ] セマンティックなHTMLの基本と作成方法
-  - [ ] <a href="https://github.com/sho-kasama/study/blob/master/semantics.md">セマンティックなhtmlについて調べてみた
+  - [ ] <a href="https://github.com/sho-kasama/study/blob/master/semantics.md">セマンティックなhtmlについて調べてみた</a>
 - [ ] セマンティックなHTMLの基本と作成方法
 - [ ] DOMを適切に構造化する方法
 
 #### Task
 
 - [ ] HTMLサイト作成 ( 最低5ページ )
-  - [ ] 
-  - [ ] 
-  - [ ] 
+  - [ ] <a href="https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5">【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！</a>
+  - [ ] <a href="https://qiita.com/shumatsukishu/items/8dfedd82ecff89085968">駆け出しエンジニアのUI設計をちゃんとする</a>
+  - [ ] <a href="https://qiita.com/ryounagaoka/items/045b2808a5ed43f96607">もう逃げない。HTMLのviewportをちゃんと理解する</a>
   - [ ] 
   - [ ] 
   - [ ] 
@@ -276,8 +295,9 @@ ________________________________________________________________________________
 - [ ] Grid layout
 - [ ] Flexbox
 - [ ] Media Queries
+  - [ ] <a href="https://www.seojuku.com/blog/responsive-mediaquery.html">レスポンシブ・ CSSメディアクエリ ブレイクポイント(まとめ)
 
-#### Task
+#### CSS AND HTML
 
 - [ ] HTMLサイトに装飾する
   - [ ] 
@@ -286,6 +306,7 @@ ________________________________________________________________________________
   - [ ] 
   - [ ] 
   - [ ] 
+- [ ] <a href="https://qiita.com/hissy/items/e781a62ff6521803a230">未経験から7日間でコーダーとして現場投入させるまでのカリキュラムを忘れないようにメモっとく</a>
 
 
 
@@ -357,6 +378,9 @@ ________________________________________________________________________________
 
 
 - [ ] Vue
+- [ ] <a href="https://qiita.com/suuungwoo/items/15941c1ae0762fb566e6">Vue.js概要【初心者】</a>
+- [ ] <a href="https://qiita.com/plus_kyoto/items/a01578b782f17f573510">フロント未学習の大学生が1週間でVue.jsを使ったポートフォリオを作った話</a>
+
   - [ ] Vuex
 
 
@@ -404,8 +428,8 @@ ________________________________________________________________________________
 
 <a href="https://github.com/sho-kasama/study/blob/master/Book.md">書籍について学んだこと & アウトプットのリンク先を貼ってます</a>
 <a href="https://github.com/sho-kasama/study/blob/master/Rails.md">Railsを取得するために必要な技術要素の一覧</a>
-
-
+<a href="https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3">こんなHTMLとCSSのコーディング規約で書きたい</a>
+<a href="https://gakureki-zero.com/internet-web-browser/">ウェブブラウザのHTTPやHTML、URLなどを詳しく解説します</a>
 
 
 

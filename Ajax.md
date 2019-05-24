@@ -127,13 +127,13 @@ src="http://another.domain.example.com/getjson?callback=parseResponse'>
 このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。<br>
 <br>
 
- 
-詳しくは⬇︎
+
+
 <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a>
 
-<br>
 
-#### クロスドメイン通信の制限
+
+### 3.クロスドメイン通信の制限
 
 JSONPを説明する前に、なぜJSONPが必要になるのかの背景をせつめい<br>
 Ajaxで用いるXMLHttpRequest という JavaScriptのモジュールはセキュリティ上の制限からJavaScriptファイルを取得したのと同じサーバとしか通信できません<br>

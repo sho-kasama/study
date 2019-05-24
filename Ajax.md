@@ -159,24 +159,22 @@ JSONPをつかったクロスドメイン通信の概略を示します。<br>
 <br>
 
 
-```
-
-<html xmlns="http://www.w3.org/1999/html">
-  <head>
-    <title>クロスドメイン通信の例</title>
-  </head>
-  <body>
-    <script type="text/javascript">
-      function foo(zip) {
-         alert(zip["zipcode"]);
-      }
-      </script>
-      <script src="http://zip.ricollab.jp/1120002.json?callback=foo"></script>
-   </body>
- </html>
 
 
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

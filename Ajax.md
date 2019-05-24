@@ -109,22 +109,29 @@ JSONのメディアタイプは「application/json」です。<br>
 <br>
 JSONP (JSON with padding)とは、scriptタグを使用してクロスドメインな(異なるドメインに存在する)データを取得する仕組みのことである。<br>
 HTMLのscriptタグ、JavaScript(関数),JSONを組み合わせて実現される。<br>
+<br>
+<br>
 
-XHRだとサイト間をまたいでデータ共有できない制限を回避するために利用されてきた仕組みです。
+
+XHRだとサイト間をまたいでデータ共有できない制限を回避するために利用されてきた仕組みです。<br>
+<br>
 
 
 ```
 <script type='text/javascript'
 src="http://another.domain.example.com/getjson?callback=parseResponse'>
 ```
-このような感じでコールバックを指定して使います
+このような感じでコールバックを指定して使います<br>
 
 <script>タグでJSONを呼び出すとコールバック関数を使ってJSONデータを処理します。<br>
 このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。<br>
+<br>
+
+ 
 詳しくは⬇︎
 <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a>
 
-
+<br>
 
 #### クロスドメイン通信の制限
 
@@ -132,6 +139,7 @@ JSONPを説明する前に、なぜJSONPが必要になるのかの背景をせ�
 Ajaxで用いるXMLHttpRequest という JavaScriptのモジュールはセキュリティ上の制限からJavaScriptファイルを取得したのと同じサーバとしか通信できません<br>
 JavaScriptが在るサーバとは別のサーバと通信できてしまうと、ブラウザで入力した情報をユーザが知らない間に不正なサーバに送信できてしまうからです。<br>
 ちなみに、このように不特定多数のドメインに属するサーバにアクセスすることを「クロスドメイン通信」(ドメインをまたがった通信の意）と呼びます<br>
+<br>
 <br>
 しかし、複数のドメインのサーバと通信できず、単一のドメインのみと通信をしなければならないのは大きな制限です。<br>
 たとえば、自サービスでは地図データと郵便番号データを保持せずに、それらを提供している他のWeb API( Google map, ぐるなびのapiとか)から適宜取得することができないからです。<br>
@@ -141,7 +149,7 @@ JavaScriptが在るサーバとは別のサーバと通信できてしまうと�
  
 
 XMLHttpRequestではクロスドメイン通信ができませんが、代替手段があります。<br>
-HTMLの<script>要素を用いると、複数のサイトからJavaScriptファイルを読み込める
+HTMLの<script>要素を用いると、複数のサイトからJavaScriptファイルを読み込める<br>
  
  
  ```

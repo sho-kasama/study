@@ -8,7 +8,7 @@ Ajaxまとめ
 1. Ajaxとは
 2. JSONとは
 3. JSONPとは
-
+4. 参考記事
 
 
 
@@ -113,7 +113,8 @@ JavaScriptが在るサーバとは別のサーバと通信できてしまうと�
 たとえば、自サービスでは地図データと郵便番号データを保持せずに、それらを提供している他のWeb API( Google map, ぐるなびのapiとか)から適宜取得することができないからです。<br>
 
 
-## 3.JSONPとは
+
+##  3JSONPとは
 <br>
 JSONP (JSON with padding)とは、scriptタグを使用してクロスドメインな(異なるドメインに存在する)データを取得する仕組みのことである。<br>
 HTMLのscriptタグ、JavaScript(関数),JSONを組み合わせて実現される。<br>
@@ -132,13 +133,14 @@ src="http://another.domain.example.com/getjson?callback=parseResponse'>
 このような感じでコールバックを指定して使います<br>
 
 <script>タグでJSONを呼び出すとコールバック関数を使ってJSONデータを処理します。<br>
-このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。<br>
-<br>
+このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。
+
 
  
-詳しくは⬇︎
-<a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a>
-
 <br>
+
+
+
+
 
 

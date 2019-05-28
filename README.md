@@ -380,6 +380,10 @@ ________________________________________________________________________________
 - [ ] XHR, AjaxでHTTPリクエスト
 - [ ] ES6以降の新機能について学ぶ
 
+- [ ] <a href="https://qiita.com/fujineyuri/items/7dc05612345122b9072e">2019年5月時点　JavaScript初心者が参考にしていいモダンJavaScript解説サイト2つ</a>
+    - [ ] <a href="https://jsprimer.net/intro/">js-primer</a>
+    - [ ] <a href="https://ja.javascript.info/">現代の JavaScript チュートリアル</a>
+
 ## 4, Should I learn Jquery?
  
 - [ ] Jqueryについて学ぶ

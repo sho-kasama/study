@@ -54,6 +54,7 @@
     - [ ] <a href="http://inobo52.hatenablog.com/entry/2014/09/04/Ruby%E3%81%A7HTML%E8%A7%A3%E6%9E%90%E3%81%8C%E8%B6%85%E4%BD%99%E8%A3%95%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99">RubyでHTML解析が超余裕なんです</a>
     - [ ] <a href="https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/#7">Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル]
 2014-05-02</a>
+    - [ ]<a href="https://qiita.com/hmmrjn/items/7cc5e5348755c517458a">【Rails 5.2】 Active Storageの使い方</a>
 
 ## 4, Standards and Best Practices
 

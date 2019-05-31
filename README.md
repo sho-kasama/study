@@ -46,15 +46,31 @@
 
 ## 3, Learn Package Manager
 
-- [ ] RubyGems
+- [ ] RubyGem
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
+  
+#### ransack
+
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
+  
+#### nokogiri
   - [ ] <a href="https://www.rubydoc.info/github/sparklemotion/nokogiri">nokogiri</a>
     - [ ] <a href="https://qiita.com/rllllho/items/cb1187cec0fb17fc650a">クローラ作成に必須！XPATHの記法まとめ</a>
     - [ ] <a href="http://inobo52.hatenablog.com/entry/2014/09/04/Ruby%E3%81%A7HTML%E8%A7%A3%E6%9E%90%E3%81%8C%E8%B6%85%E4%BD%99%E8%A3%95%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99">RubyでHTML解析が超余裕なんです</a>
     - [ ] <a href="https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/#7">Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル]
 2014-05-02</a>
-    - [ ]<a href="https://qiita.com/hmmrjn/items/7cc5e5348755c517458a">【Rails 5.2】 Active Storageの使い方</a>
+
+#### kaminari
+  - [ ]<a href="https://qiita.com/nysalor/items/77b9d6bc5baa41ea01f3">kaminari徹底入門</a>
+  - [ ]<a href="https://github.com/kaminari/kaminari">公式ドキュメント</a>
+  
+#### パンくずリスト
+  - [ ]<a href="https://github.com/WilHall/gretel">公式ドキュメント</a>
+  
+  
+#### nested_form
+  - [ ]<a href="https://github.com/ryanb/nested_form">nested_form</a>
+
 
 ## 4, Standards and Best Practices
 

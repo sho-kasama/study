@@ -150,7 +150,10 @@
  - [Cassandra](http://cassandra.apache.org/) <br>
  - [DynamoDB](http://aws.amazon.com/jp/documentation/dynamodb/)<br>
  - [memcached](http://memcached.org/)<br>
- - [redis](http://redis.io/)<br>
+ - <a href="https://github.com/mperham/sidekiq">sidekiq</a><br>
+   - <a href="https://railsguides.jp/active_job_basics.html">rails tutorial</a>
+   
+   
  - [bigtable](https://cloud.google.com/bigtable/?hl=ja)<br>
  - [hbase](https://hbase.apache.org/)<br>
  <br>

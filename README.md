@@ -61,15 +61,15 @@
 2014-05-02</a>
 
 #### kaminari
-  - [ ]<a href="https://qiita.com/nysalor/items/77b9d6bc5baa41ea01f3">kaminari徹底入門</a>
-  - [ ]<a href="https://github.com/kaminari/kaminari">公式ドキュメント</a>
+  - [ ] <a href="https://qiita.com/nysalor/items/77b9d6bc5baa41ea01f3">kaminari徹底入門</a>
+  - [ ] <a href="https://github.com/kaminari/kaminari">公式ドキュメント</a>
   
 #### パンくずリスト
-  - [ ]<a href="https://github.com/WilHall/gretel">公式ドキュメント</a>
+  - [ ] <a href="https://github.com/WilHall/gretel">公式ドキュメント</a>
   
   
 #### nested_form
-  - [ ]<a href="https://github.com/ryanb/nested_form">nested_form</a>
+  - [ ] <a href="https://github.com/ryanb/nested_form">nested_form</a>
 
 
 ## 4, Standards and Best Practices

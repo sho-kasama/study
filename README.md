@@ -508,6 +508,35 @@ ________________________________________________________________________________
 
 
 
+# lower layer
+
+
+## Qiita記事
+
+- [ ] <a href="https://qiita.com/takugi/items/9de03b264fced76eb767">Webエンジニアが知るべき低レイヤーの技術とその学習方法</a>
+- [ ] <a href="https://qiita.com/hareku/items/3383be7aee616e04b80f">低レイヤーを学ぶための技術書をまとめてみる</a>
+- [ ] <a href="https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e">実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか</a>
+- [ ] <a href="https://qiita.com/r_fukuma/items/a9e8d18467fe3e04068e">HTTPメソッド(CRUD)についてまとめた</a>
+- [ ] <a href="https://qiita.com/jabba/items/78ba766a4f6849df352c">【パズル１】ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル?</a>
+
+
+
+
+
+## 書籍
+
+- [ ] 
+<a href="https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-3%E5%88%86%E9%96%93%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7-%E7%B6%B2%E9%87%8E-%E8%A1%9B%E4%BA%8C/dp/4774143731">3分間ネットワーク基礎講座</a>
+
+
+
+
+
+
+
+
+
+
 ## pinterest.jp
 
 1: <a href="http://petitringo.net/about/">COMOCOMO</a>

@@ -202,6 +202,11 @@ rails-ujsはAjaxリクエストを送信するだけでなく、関連するイ�
 ちなみに、rails-ujsが備えている機能はAjaxだけではありません。 link_to メソッドへのオプションとして今まで利用してきたmethod: :delete」によるDELETEリクエストの発行や「data-confirm」による確認ダイアログの表示も実はrails-ujsが担っている。またフォームのsubmitボタンに「data-disabled-with」属性が付与されますが、これもrails-ujsが提供するフォームの二重クリックを防止する機能です。
 
 
+<br>
+
+### SJR(Server-generated JavaScript Responses)とは？
+
+Railsではサーバーサイドで生成したJavaScriptからなるレスポンス(またはこのレスポンスによる画面更新までのプロセス)のことを、Server-generated JavaScript Responses(SJR)といいます。
 
 
 

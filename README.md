@@ -325,27 +325,19 @@
 
 ## 24, All the things that weren't mentioned above
 
-<<<<<<< HEAD
 - [ ] Rails debug 
 
 
-
-
-
-
-=======
 - [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
 - [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
 - [ ] <a href="https://reasonable-code.com/git-origin">Gitでよく使う「origin」って何？わかりやすく説明します</a>
 - [ ] <a href="https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html">has_secure_passwordとは?</a>
-<<<<<<< HEAD
->>>>>>> d5dbadb2b2fcd43c140c2da0772002e14132891c
-
-=======
 - [ ] <a href="https://nrslib.com/event-after-introduction-to-web/">Web基礎</a>
 - [ ] <a href="https://qiita.com/upinetree/items/273ae574f1c021d24c37">Railsアプリの例外ハンドリングとエラーページの表示についてまとめてみた</a>
 - [ ] <a href="https://qiita.com/tos-miyake/items/8dffb16273726f538d49">railsのdefaultでは用意されていない考え方や設計、リファクタリングについてのリンク集</a>
->>>>>>> 5cd1bf6a9a9947b775a6bb06ae59321bb38b6a38
+- [ ] <a href="https://qiita.com/Yama-to/items/93cd8b3a8be67b09e353">あなたがRails触る人なら見ておきたい「体系的な」豆知識
+</a>
+
 
 
 _________________________________________________________________________________________________________________________

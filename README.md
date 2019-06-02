@@ -518,6 +518,14 @@ ________________________________________________________________________________
 - [ ] <a href="https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e">実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか</a>
 - [ ] <a href="https://qiita.com/r_fukuma/items/a9e8d18467fe3e04068e">HTTPメソッド(CRUD)についてまとめた</a>
 - [ ] <a href="https://qiita.com/jabba/items/78ba766a4f6849df352c">【パズル１】ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル?</a>
+- [ ] <a href="https://qiita.com/tatsuya4150/items/474b60beed0c04d5d999">OSI参照モデルまとめ</a>
+
+
+### ネットワークエンジニアとして
+
+- [ ] <a href="https://www.infraexpert.com/study/study14.html">Network study</a>
+
+
 
 
 

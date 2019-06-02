@@ -1,6 +1,6 @@
 ## 参考記事
 
-## RailsでJavaScriptを使用する
+
 
 #### remote: true
 
@@ -35,7 +35,7 @@ Ajaxまとめ
 1. Ajaxとは
 2. JSONとは
 3. JSONPとは
-4. 参考記事
+4. rails-ujsとは
 
 
 
@@ -180,6 +180,14 @@ src="http://another.domain.example.com/getjson?callback=parseResponse'>
 
 <script>タグでJSONを呼び出すとコールバック関数を使ってJSONデータを処理します。<br>
 このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。<br>
+
+
+
+## .rails-ujsとは
+
+
+
+
 
 
 

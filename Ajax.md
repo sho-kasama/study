@@ -37,7 +37,7 @@ Ajaxまとめ
 3. JSONPとは
 4. rails-ujsとは
 
-
+●. 実際にAjaxを使ってみた
 
 
 
@@ -210,6 +210,10 @@ Railsではサーバーサイドで生成したJavaScriptからなるレスポ�
 
 
 
+
+## ● 実際にAjaxを使ってみた
+
+<a href="https://github.com/sho-kasama/Ajax_/blob/master/README.md">Ajaxを理解するために作成した</a>
 
 
 

@@ -511,6 +511,21 @@ ________________________________________________________________________________
 # lower layer
 
 
+
+## コマンド系
+
+
+#### curlコマンド
+
+- [ ] <a href="https://qiita.com/bunty/items/758425773b2239feb9a7">curlコマンドでapiを叩く</a>
+- [ ] <a href="https://qiita.com/jabba/items/78ba766a4f6849df352c">【パズル１】ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル?</a>
+  - [ ] <a href="http://k213.hatenadiary.jp/entry/2016/03/30/010924">culrでGET/POST/PUT/DELETE
+  - [ ] <a href="http://challenge-your-limits.herokuapp.com/">問題</a>
+  
+
+
+
+
 ## Qiita記事
 
 - [ ] <a href="https://qiita.com/takugi/items/9de03b264fced76eb767">Webエンジニアが知るべき低レイヤーの技術とその学習方法</a>

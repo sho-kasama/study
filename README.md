@@ -46,9 +46,18 @@
 
 ## 3, Learn Package Manager
 
+
+- [ ] <a href="https://www.ruby-toolbox.com/">Ruby Toolbox </a>: RailsにGemを追加して機能を付け加えたいときに、どんなGemがあるのかをカテゴリーごとに見ることができる(英語)
+
+
+
 - [ ] RubyGem
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
   
+  
+
+
+
 #### ransack
 
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>

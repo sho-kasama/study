@@ -515,6 +515,11 @@ ________________________________________________________________________________
 ## コマンド系
 
 
+#### jqコマンド
+
+
+
+
 #### curlコマンド
 
 - [ ] <a href="https://qiita.com/bunty/items/758425773b2239feb9a7">curlコマンドでapiを叩く</a>
@@ -522,6 +527,10 @@ ________________________________________________________________________________
   - [ ] <a href="http://k213.hatenadiary.jp/entry/2016/03/30/010924">culrでGET/POST/PUT/DELETE
   - [ ] <a href="http://challenge-your-limits.herokuapp.com/">問題</a>
   
+  
+## DNSとは？
+
+- [ ] <a href="https://www.nic.ad.jp/ja/dom/system.html">ドメイン名のしくみ</a>
 
 
 

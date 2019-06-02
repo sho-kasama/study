@@ -172,18 +172,41 @@ XHRだとサイト間をまたいでデータ共有できない制限を回避�
 <br>
 
 
-```
-<script type='text/javascript'
-src="http://another.domain.example.com/getjson?callback=parseResponse'>
-```
-このような感じでコールバックを指定して使います<br>
-
-<script>タグでJSONを呼び出すとコールバック関数を使ってJSONデータを処理します。<br>
-このコールバック関数を攻撃にすることにより、攻撃者は情報を不正に取得できます。<br>
-
 
 
 ## .rails-ujsとは
+
+
+現場で使える Ruby on Rails5 速習実践ガイドから引用 P336<br>
+
+先ほどリンクに`remote: true`というオプションを加えるとdata-remote属性が付与され、Ajaxでリクエストが送信されると説明した。<br>
+これは「rails-ujs」というActionView添付のJavaScriptライブラリによって処理されています<br>
+<a href="https://github.com/sho-kasama/Todo-rails/pull/31">関連issue</a>
+
+
+* Action Viewとは<br>
+Action Controllerのアクションに応じたCRUDアクションの実行後のレスポンスを実際のWebページにまとめる役割を担います<br>
+<br>
+<br>
+rails-ujsはAjaxリクエストを送信するだけでなく、関連するイベントも発行します<br>
+このイベントを利用することで、Ajaxの任意のタイミングで柔軟に処理を実行することができる、ここで利用した`ajax:success`もそのイベントの一つで、Ajaxによるレスポンスの成功、つまりタスクの削除が成功した時に実行されます<br>
+
+<br>
+<br>
+もう少し踏み込むと、`ajax:success`イベントは,HTTPレスポンスのステータスコードが2XX(成功)の場合に処理されます。それ以外の場合は`ajax:error`イベントは処理されます。`TasksController#destory`アクションでは、削除が成功するとステータスコード204が返されるため、`ajax:success`イベントが発生し、ハンドラの処理が実行されることになる<br>
+
+
+<br>
+<br>
+
+ちなみに、rails-ujsが備えている機能はAjaxだけではありません。`link_to`メソッドへのオプションとして今まで利用してきた「method: :delete」によるDELETEリクエストの発行や「data-confirm」による確認ダイアログの表示も実はrails-ujsが担っている。またフォームのsubmitボタンに「data-disabled-with」属性が付与されますが、これもrails-ujsが提供するフォームの二重クリックを防止する機能です。
+
+
+
+
+
+
+
 
 
 

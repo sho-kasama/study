@@ -1,5 +1,12 @@
 ## 参考記事
 
+
+- [ ] <a href="https://qiita.com/__tambo__/items/409ccf256e84017ea307">Ajax(非同期通信)についてわかりやすさ重視でまとめてみた(Rails使用のデモ付)</a>
+  - [ ] <a href="https://qiita.com/__tambo__/items/45211df065e0c037d032">Railsで remote: true と js.erbを使って簡単にAjax(非同期通信)を実装しよう！(いいね機能のデモ付)</a>
+
+
+
+
 <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a><br>
 <a href="https://qiita.com/nekoneko-wanwan/items/bedc0e826c0842ca0b11">はじめてajaxを使うときに知りたかったこと</a><br>
 <a href="https://qiita.com/hisamura333/items/e3ea6ae549eb09b7efb9">初心者目線でAjaxの説明</a><br>

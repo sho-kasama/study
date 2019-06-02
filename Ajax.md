@@ -1,16 +1,25 @@
 ## 参考記事
 
+## RailsでJavaScriptを使用する
+
+#### remote: true
 
 - [ ] <a href="https://qiita.com/__tambo__/items/409ccf256e84017ea307">Ajax(非同期通信)についてわかりやすさ重視でまとめてみた(Rails使用のデモ付)</a>
   - [ ] <a href="https://qiita.com/__tambo__/items/45211df065e0c037d032">Railsで remote: true と js.erbを使って簡単にAjax(非同期通信)を実装しよう！(いいね機能のデモ付)</a>
 
+#### Rails tutorial
+
+<a href="https://railsguides.jp/working_with_javascript_in_rails.html">Rails で JavaScript を使用する</a><br>
 
 
-
+#### JSONP
 <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a><br>
+
+
+#### Ajax初心者目線
+
 <a href="https://qiita.com/nekoneko-wanwan/items/bedc0e826c0842ca0b11">はじめてajaxを使うときに知りたかったこと</a><br>
 <a href="https://qiita.com/hisamura333/items/e3ea6ae549eb09b7efb9">初心者目線でAjaxの説明</a><br>
-<a href="https://railsguides.jp/working_with_javascript_in_rails.html">Rails で JavaScript を使用する</a><br>
 <a href="https://qiita.com/fezrestia/items/e669107a4a6e66618738">Rails 5.x標準で Ajax+(jQuery+Partial) でHTML部分更新する世界一シンプルなサンプル</a><br>
 <a href="https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d">JavascriptのAjaxについての基本まとめ</a>
 

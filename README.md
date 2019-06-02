@@ -87,6 +87,11 @@
 - [ ] <a href="https://qiita.com/morrr/items/54f4be21032a45fd4fe9">turbolinksチートシート</a>
 
 
+#### acts-as-taggable-on 
+
+- [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>
+- [ ] <a href="https://github.com/mbleigh/acts-as-taggable-on">公式リファレンス</a>
+  - [ ] <a href="https://madogiwa0124.hatenablog.com/entry/2018/04/22/185625">acts-as-taggable-onを使って生じるかもしれないN+1 問題の回避の仕方</a>
 
 
 

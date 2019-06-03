@@ -98,6 +98,10 @@
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
   
   
+  
+#### rails_autolink
+
+  - [ ] <a href="https://github.com/tenderlove/rails_autolink">rails_autolinkの公式ドキュメント</a>
 
   
 #### パンくずリスト

@@ -61,8 +61,9 @@
 
 - [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>
 - [ ] <a href="https://github.com/mbleigh/acts-as-taggable-on">公式リファレンス</a>
-  - [ ] <a href="https://madogiwa0124.hatenablog.com/entry/2018/04/22/185625">acts-as-taggable-onを使って生じるかもしれないN+1 問題の回避の仕方</a>
-  
+- [ ] <a href="https://github.com/bootstrap-tagsinput/bootstrap-tagsinput">bootstrap-tagsinput公式</a>
+- [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20150225/1424858414">Railsでacts-as-taggable-onを使ってタグ管理を行う</a>
+- [ ] <a href="https://qiita.com/fa19940118/items/62cfbfc8c6c409ba0fa5">RailsでBootstrapTagsInputを使ったタグ管理機能を実装する</a>
 
 #### kaminari
   - [ ] <a href="https://qiita.com/nysalor/items/77b9d6bc5baa41ea01f3">kaminari徹底入門</a>

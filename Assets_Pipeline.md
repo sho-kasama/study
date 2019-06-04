@@ -69,6 +69,54 @@ Railsでは、CSSを読み込むには stylesheet_link_tag ,JavaScriptを読み�
 
 
 
+## 4.マニフェストファイルを記述する
+
+<br>
+<br>
+
+
+アセットパイプラインの結合の機能を利用するためには、具体的にソースコード同士を連結させるのかを決め。アセットパイプラインに伝えてやる必要があります。<br>
+これはマニフェストファイルを記述することによって行います <br>
+
+
+<br>
+<br>
+
+これらのマニフェストファイルに、特定の記法(ディレクティブ)で、結合する(取り込む)ソースコードを指定します。
+
+
+JavaScriptのマニフェストファイル。
+app/assets/javascript/application.js ⬇︎
+
+```javascript
+//= require rails-ujs
+//= require activestorage
+//= require turbolinks
+//= require_tree .
+```
+
+
+「//= require」や「//= require_tree」といった記述が目に付く。JavaScriptのマニフェストファイルでは、「//=」で始まる行を、アセットパイプラインに指示を伝えるための特別な業として扱います。<br>
+* ファイルがJavaScriptファイルとして有効になるように、Sprockets独自の仕様であるディレクティブはJavaScriptのコメントの一種として設計されています。
+
+<a href="https://github.com/rails/sprockets#directives">SprocketsのGithubページ</a>他にも様々なディレクティブがある
+
+
+
+
+<br>
+<br>
+
+
+ここまでJavaScriptに
+
+
+
+
+
+
+
+
 
 
 

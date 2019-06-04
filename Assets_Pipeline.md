@@ -4,7 +4,8 @@
 1. アセットパイプラインとは
 2. ブラウザにアセットを読み込ませる
 3. 連結結果のファイルをどうやって生成するか
-
+4. マニフェストファイルを記述する
+5. アセットの探索パス
 
 
 
@@ -67,6 +68,9 @@ Railsでは、CSSを読み込むには stylesheet_link_tag ,JavaScriptを読み�
 
 上記の図のように、CSSやJavaScriptをそれぞれapplication.css, application.jsとして一つに連結するのがRailsのデフォルトのやり方ですが、自由に変えることもできます。例えば、admin.cssとuser.cssのふたつのCSSファイルヲアセットパイプラインによって生成し、各ページでは必要に応じてinludeするといった形にすることできます。
 
+<br>
+<br>
+
 
 
 ## 4.マニフェストファイルを記述する
@@ -108,8 +112,22 @@ app/assets/javascript/application.js ⬇︎
 <br>
 
 
-ここまでJavaScriptに
+ここまでJavaScriptについて説明してきたが、CSSも考え方は同じ。ただし、ディレクティブを記述する方法が異なります。<br>
+cssをSassで書くように置き換えてる場合はSassの@importを利用して記述していきます。
 
+app/assets/stylesheets/application.scss
+```
+@import "bootstarp";
+@import "tasks";
+```
+
+
+## 5.アセットの探索パス
+
+
+マニフェストで指定するJavaScriptやCSSのファイル名は、アセットの探索パスの設定をもとに引き当てられます。<br>
+デフォルトでは app/assets, lib/assets/ , vendor/assets/ が探索パスに設定されています。<br>
+探索はパスの出現順で行われるため、app
 
 
 

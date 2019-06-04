@@ -127,7 +127,48 @@ app/assets/stylesheets/application.scss
 
 マニフェストで指定するJavaScriptやCSSのファイル名は、アセットの探索パスの設定をもとに引き当てられます。<br>
 デフォルトでは app/assets, lib/assets/ , vendor/assets/ が探索パスに設定されています。<br>
-探索はパスの出現順で行われるため、app
+探索はパスの出現順で行われるため、app/assets/* がもっとも優先されます。
+<br>
+<br>
+
+JavaScriptのマニフェストを例に説明しましょう。<br>
+lib/assets/javascripts/slider.js , vendor/assets/javascripts/modal.js といったファイルを新たに取り込みたい時、 lib/assetsと vendor/assetsはそれぞれ探索パスに設定されているので、マニフェストファイルに以下の行を追記するだけで済む。
+
+application.js (マニフェストファイル)
+
+```
+//= require slider
+//= require modal
+```
+
+デフォルトの探索パスに加えて、他のディレクトリも探索パスとして設定したいこともあるでしょう。それには、Rails.application.config.assets.paths に探索パスを追加します。この設定は 通常 config/initializers/assets.rb の中で記述します。この設定は通常 config/initializers/assets.rb の中で記述します。ファイルを開いてみると、すでにnode_modulesが追加済みとなっていることがわかる。
+
+
+```
+# Add Yarn node_modules folder to the asset load path.
+Rails.application.config.assets.paths << Rails.root.join('node_modules')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -46,14 +46,68 @@
 
 ## 3, Learn Package Manager
 
-- [ ] RubyGems
+
+- [ ] <a href="https://www.ruby-toolbox.com/">Ruby Toolbox </a>: RailsにGemを追加して機能を付け加えたいときに、どんなGemがあるのかをカテゴリーごとに見ることができる(英語)
+
+
+
+- [ ] RubyGem
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
-  - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
+  
+
+  
+
+#### acts-as-taggable-on 
+
+- [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>
+- [ ] <a href="https://github.com/mbleigh/acts-as-taggable-on">公式リファレンス</a>
+- [ ] <a href="https://github.com/bootstrap-tagsinput/bootstrap-tagsinput">bootstrap-tagsinput公式</a>
+- [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20150225/1424858414">Railsでacts-as-taggable-onを使ってタグ管理を行う</a>
+- [ ] <a href="https://qiita.com/fa19940118/items/62cfbfc8c6c409ba0fa5">RailsでBootstrapTagsInputを使ったタグ管理機能を実装する</a>
+
+#### kaminari
+  - [ ] <a href="https://qiita.com/nysalor/items/77b9d6bc5baa41ea01f3">kaminari徹底入門</a>
+  - [ ] <a href="https://github.com/kaminari/kaminari">公式ドキュメント</a>
+  
+  
+  
+  
+#### Turbolinks 
+
+- [ ] <a href="https://qiita.com/saboyutaka/items/bb089e8208239bf6fdc0">Turbolinks5についてまとめてみる</a>
+- [ ] <a href="https://qiita.com/morrr/items/54f4be21032a45fd4fe9">turbolinksチートシート</a>
+
+
+#### nokogiri
   - [ ] <a href="https://www.rubydoc.info/github/sparklemotion/nokogiri">nokogiri</a>
     - [ ] <a href="https://qiita.com/rllllho/items/cb1187cec0fb17fc650a">クローラ作成に必須！XPATHの記法まとめ</a>
     - [ ] <a href="http://inobo52.hatenablog.com/entry/2014/09/04/Ruby%E3%81%A7HTML%E8%A7%A3%E6%9E%90%E3%81%8C%E8%B6%85%E4%BD%99%E8%A3%95%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99">RubyでHTML解析が超余裕なんです</a>
     - [ ] <a href="https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/#7">Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル]
 2014-05-02</a>
+
+
+  
+  
+#### nested_form
+  - [ ] <a href="https://github.com/ryanb/nested_form">nested_form</a>
+
+
+
+
+#### ransack
+
+  - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
+  
+  
+  
+#### rails_autolink
+
+  - [ ] <a href="https://github.com/tenderlove/rails_autolink">rails_autolinkの公式ドキュメント</a>
+
+  
+#### パンくずリスト
+  - [ ] <a href="https://github.com/WilHall/gretel">公式ドキュメント</a>
+
 
 ## 4, Standards and Best Practices
 
@@ -133,7 +187,10 @@
  - [Cassandra](http://cassandra.apache.org/) <br>
  - [DynamoDB](http://aws.amazon.com/jp/documentation/dynamodb/)<br>
  - [memcached](http://memcached.org/)<br>
- - [redis](http://redis.io/)<br>
+ - <a href="https://github.com/mperham/sidekiq">sidekiq</a><br>
+   - <a href="https://railsguides.jp/active_job_basics.html">rails tutorial</a>
+   
+   
  - [bigtable](https://cloud.google.com/bigtable/?hl=ja)<br>
  - [hbase](https://hbase.apache.org/)<br>
  <br>
@@ -296,27 +353,19 @@
 
 ## 24, All the things that weren't mentioned above
 
-<<<<<<< HEAD
 - [ ] Rails debug 
 
 
-
-
-
-
-=======
 - [ ] <a href="https://techlife.cookpad.com/?page=1555966800">クックパッド開発者ブログ</a>
 - [ ] <a href="https://note.mu/toyomomo/n/nc4ad516aa32c">データフォーマットとは？XML、JSON、CSVの違いや特徴についてわかりやすく解説するよ</a>
 - [ ] <a href="https://reasonable-code.com/git-origin">Gitでよく使う「origin」って何？わかりやすく説明します</a>
 - [ ] <a href="https://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html">has_secure_passwordとは?</a>
-<<<<<<< HEAD
->>>>>>> d5dbadb2b2fcd43c140c2da0772002e14132891c
-
-=======
 - [ ] <a href="https://nrslib.com/event-after-introduction-to-web/">Web基礎</a>
 - [ ] <a href="https://qiita.com/upinetree/items/273ae574f1c021d24c37">Railsアプリの例外ハンドリングとエラーページの表示についてまとめてみた</a>
 - [ ] <a href="https://qiita.com/tos-miyake/items/8dffb16273726f538d49">railsのdefaultでは用意されていない考え方や設計、リファクタリングについてのリンク集</a>
->>>>>>> 5cd1bf6a9a9947b775a6bb06ae59321bb38b6a38
+- [ ] <a href="https://qiita.com/Yama-to/items/93cd8b3a8be67b09e353">あなたがRails触る人なら見ておきたい「体系的な」豆知識
+</a>
+
 
 
 _________________________________________________________________________________________________________________________
@@ -379,6 +428,10 @@ ________________________________________________________________________________
 - [ ] scope, Closure, 変数巻き上げ, イベントバブリング等
 - [ ] XHR, AjaxでHTTPリクエスト
 - [ ] ES6以降の新機能について学ぶ
+
+- [ ] <a href="https://qiita.com/fujineyuri/items/7dc05612345122b9072e">2019年5月時点　JavaScript初心者が参考にしていいモダンJavaScript解説サイト2つ</a>
+    - [ ] <a href="https://jsprimer.net/intro/">js-primer</a>
+    - [ ] <a href="https://ja.javascript.info/">現代の JavaScript チュートリアル</a>
 
 ## 4, Should I learn Jquery?
  
@@ -481,6 +534,83 @@ ________________________________________________________________________________
 
 - [ ] Vue
   - [ ] Nuxt.js
+
+
+
+# lower layer
+
+
+
+## コマンド系
+
+
+#### jqコマンド
+
+
+
+
+#### curlコマンド
+
+- [ ] <a href="https://qiita.com/bunty/items/758425773b2239feb9a7">curlコマンドでapiを叩く</a>
+- [ ] <a href="https://qiita.com/jabba/items/78ba766a4f6849df352c">【パズル１】ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル?</a>
+  - [ ] <a href="http://k213.hatenadiary.jp/entry/2016/03/30/010924">culrでGET/POST/PUT/DELETE
+  - [ ] <a href="http://challenge-your-limits.herokuapp.com/">問題</a>
+  
+  
+## DNSとは？
+
+- [ ] <a href="https://www.nic.ad.jp/ja/dom/system.html">ドメイン名のしくみ</a>
+
+
+
+
+## Qiita記事
+
+- [ ] <a href="https://qiita.com/takugi/items/9de03b264fced76eb767">Webエンジニアが知るべき低レイヤーの技術とその学習方法</a>
+- [ ] <a href="https://qiita.com/hareku/items/3383be7aee616e04b80f">低レイヤーを学ぶための技術書をまとめてみる</a>
+- [ ] <a href="https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e">実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか</a>
+- [ ] <a href="https://qiita.com/r_fukuma/items/a9e8d18467fe3e04068e">HTTPメソッド(CRUD)についてまとめた</a>
+- [ ] <a href="https://qiita.com/jabba/items/78ba766a4f6849df352c">【パズル１】ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル?</a>
+- [ ] <a href="https://qiita.com/tatsuya4150/items/474b60beed0c04d5d999">OSI参照モデルまとめ</a>
+
+
+### ネットワークエンジニアとして
+
+- [ ] <a href="https://www.infraexpert.com/study/study14.html">Network study</a>
+
+
+
+
+
+
+
+## 書籍
+
+- [ ] 
+<a href="https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-3%E5%88%86%E9%96%93%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7-%E7%B6%B2%E9%87%8E-%E8%A1%9B%E4%BA%8C/dp/4774143731">3分間ネットワーク基礎講座</a>
+- [ ] <a href="https://www.amazon.co.jp/s?k=痛快+コンピューター学&adgrpid=48776508890&gclid=EAIaIQobChMIuvWxlanK4gIViK_ICh234QZTEAAYASAAEgKSDfD_BwE&hvadid=338568126425&hvdev=c&hvlocphy=1009313&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=6715220023776343789&hvtargid=kwd-335446971078&hydadcr=27264_11561112&jp-ad-ap=0&tag=googhydr-22&ref=pd_sl_3kw5qpcg3f_e">痛快コンピューター学</a>
+
+
+
+# UI DESIGN
+
+
+- [ ] <a href="https://t.co/mtH7vmPJXM">UIを検索&downloadできるサイト</a>
+- [ ] <a href="https://mobbin.design/">UIのパーツを検索できる</a>
+- [ ] <a href="https://uimovement.com/">animation系</a>
+  
+
+#### 定番
+
+- [ ] <a href="https://dribbble.com/">https://dribbble.com/</a>
+- [ ] <a href="https://www.behance.net/">https://www.behance.net/</a>
+- [ ] <a href="https://www.pinterest.jp/">https://www.pinterest.jp/</a>
+
+
+
+
+
+
 
 
 

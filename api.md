@@ -8,6 +8,8 @@
 1. apiとは
 2. Railsでapiモードを利用してapiを作成してみた
 
+☑️ 実際に作ってみた
+
 
 
 ## apiとは？
@@ -24,9 +26,11 @@ api(Application Programming Interface)の略である<br>
 (アプリケーションと人間の接点となるのは、画面上にあるボタンとかそういうUI部分だから)
 
 
-## Railsでapiモードを利用してapiを作成してみた
 
 
+## ☑️実際に作ってみた
+
+<a href="https://github.com/sho-kasama/api-practice">api-practice</a>
 
 
 

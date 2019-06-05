@@ -489,7 +489,12 @@ ________________________________________________________________________________
 
 
 - [ ] <a href="https://ja.reactjs.org/">React tutorial(日本語訳)</a> 
-  - [ ] Rudex
+  - [ ] <a href="https://github.com/sho-kasama/many__study/issues/48">ReactでTodoアプリを作ってみる</a>
+
+
+
+
+- [ ] Rudex
   - [ ] Mobx
 
 

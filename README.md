@@ -487,7 +487,7 @@ ________________________________________________________________________________
 ## 12, Pick a Framework
 
 
-- [ ] React
+- [ ] <a href="https://ja.reactjs.org/">React tutorial(日本語訳)</a> 
   - [ ] Rudex
   - [ ] Mobx
 

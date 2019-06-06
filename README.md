@@ -428,6 +428,14 @@ ________________________________________________________________________________
     - [ ] <a href="https://jsprimer.net/intro/">js-primer</a>
     - [ ] <a href="https://ja.javascript.info/">現代の JavaScript チュートリアル</a>
     - [ ] <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript/A_re-introduction_to_JavaScript">JavaScript 「再」入門</a>
+    
+
+
+    
+    
+    
+    
+    
 
 ## 4, Should I learn Jquery?
  

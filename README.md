@@ -519,6 +519,7 @@ ________________________________________________________________________________
 - [ ] <a href="https://github.com/sho-kasama/many__study/issues/48">ReactでTodoアプリを作ってみる</a>
   
 
+- [ ] <a href="https://qiita.com/yeaney/items/9d5227ff49c0377c3ef4#_reference-7f6111f0856a4fb446d6">React.jsを初めて勉強する時に参考になるサイト</a>
 
 
 

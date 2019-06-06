@@ -491,8 +491,21 @@ ________________________________________________________________________________
 ## 12, Pick a Framework
 
 
+### React
+
+
 - [ ] <a href="https://ja.reactjs.org/">React tutorial(日本語訳)</a> 
-  - [ ] <a href="https://github.com/sho-kasama/many__study/issues/48">ReactでTodoアプリを作ってみる</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/getting-started.html">Getting Started</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/hello-world.html">Main contents</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/accessibility.html">ADVANCE GUIDES</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/react-api.html">react-api</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/hooks-intro.html">hock</a>
+  
+
+
+
+- [ ] <a href="https://github.com/sho-kasama/many__study/issues/48">ReactでTodoアプリを作ってみる</a>
+  
 
 
 

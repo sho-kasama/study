@@ -428,7 +428,19 @@ ________________________________________________________________________________
     - [ ] <a href="https://jsprimer.net/intro/">js-primer</a>
     - [ ] <a href="https://ja.javascript.info/">現代の JavaScript チュートリアル</a>
     - [ ] <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript/A_re-introduction_to_JavaScript">JavaScript 「再」入門</a>
-    
+
+
+#### パッケージマネージャー
+(Yarnやnpmなど。サードパーティのパッケージの広大なエコシステムを利用でき、それらを簡単にインストールしたりアップデートできたりします。)
+
+#### バンドラ
+(webpackやParcelなど。モジュール化されたコードを書けるようになり、それを小さなパッケージにまとめてバンドルしてロード時間の最適化を行います。)
+
+#### コンパイラ
+(Babelなど、未だ動作している古いブラウザでもモダンなJavaScriptコードを書いて動作させることができる)
+
+
+
 
 
     

@@ -633,6 +633,7 @@ ________________________________________________________________________________
 - [ ] <a href="https://t.co/mtH7vmPJXM">UIを検索&downloadできるサイト</a>
 - [ ] <a href="https://mobbin.design/">UIのパーツを検索できる</a>
 - [ ] <a href="https://uimovement.com/">animation系</a>
+- [ ] <a href="https://note.mu/tiekey/n/n99eb01fa6a45">ブサイクなUIデザインを劇的に改善するための10のチェックリスト</a>
   
 
 #### 定番

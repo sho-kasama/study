@@ -513,15 +513,25 @@ ________________________________________________________________________________
   - [ ] <a href="https://ja.reactjs.org/docs/react-api.html">react-api</a>
   - [ ] <a href="https://ja.reactjs.org/docs/hooks-intro.html">hock</a>
   
-
-
-
 - [ ] <a href="https://github.com/sho-kasama/many__study/issues/48">ReactでTodoアプリを作ってみる</a>
-  
 
 - [ ] <a href="https://qiita.com/yeaney/items/9d5227ff49c0377c3ef4#_reference-7f6111f0856a4fb446d6">React.jsを初めて勉強する時に参考になるサイト</a>
 
 
+## 少し古いけど勉強になりそうなQiita
+
+- [ ] <a href="https://qiita.com/kuniken/items/19fccc27b8bfa8068d22">今からはじめるReact.js〜準備〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/963cb977dffd3e662e40">今からはじめるReact.js〜初めてのコンポーネント〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/c0f5ed06695ce52d4854">今からはじめるReact.js〜コンポーネントをまとめる〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/b06de893c22f33499a22">今からはじめるReact.js〜スタイルの適用〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/2fc5b782da5d302247ab">今からはじめるReact.js〜React ver0.14〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/a22adda392ccc30011b1">今からはじめるReact.js〜propsとstate、それからrefs〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/799197256ab3a1e46bd4">今からはじめるReact.js〜サーバーサイド〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/bc01ece78784f36a9906">今からはじめるReact.js〜仮想環境を作成する〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/bc20fd1e907d91b641d6">今からはじめるReact.js〜サーバーとの通信〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/89c8bbef3b71d2af662d">今からはじめるReact.js〜画面遷移〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/b532d4fa980b53fd6bd5">今からはじめるReact.js〜Flux〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/70c2b5cd77d7c9301bcf">今からはじめるReact.js〜Herokuへのデプロイ〜</a>
 
 - [ ] Rudex
   - [ ] Mobx

@@ -430,6 +430,11 @@ ________________________________________________________________________________
     - [ ] <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript/A_re-introduction_to_JavaScript">JavaScript 「再」入門</a>
 
 
+#### アロー関数について
+
+
+- [ ] <a href="https://qiita.com/mejileben/items/69e5facdb60781927929">【JavaScript】アロー関数式を学ぶついでにthisも復習する話</a>
+
 #### パッケージマネージャー
 (Yarnやnpmなど。サードパーティのパッケージの広大なエコシステムを利用でき、それらを簡単にインストールしたりアップデートできたりします。)
 

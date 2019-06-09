@@ -428,6 +428,9 @@ ________________________________________________________________________________
     - [ ] <a href="https://jsprimer.net/intro/">js-primer</a>
     - [ ] <a href="https://ja.javascript.info/">現代の JavaScript チュートリアル</a>
     - [ ] <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript/A_re-introduction_to_JavaScript">JavaScript 「再」入門</a>
+    
+    
+- [ ] <a href="https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9">イマドキのJavaScriptの書き方2018</a>
 
 
 #### アロー関数について
@@ -527,6 +530,11 @@ ________________________________________________________________________________
 ## 勉強になりそうなQiita
 
 - [ ] <a href="https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048">今から始めるReact入門 〜 React の基本</a>
+  - [ ] <a href="https://qiita.com/one-kelvin/items/b810aafb6b5ef90789a3">webpack.config.jsがわからない</a>
+  - [ ] <a href="https://qiita.com/soarflat/items/28bf799f7e0335b68186">webpack 4 入門</a>
+  - [ ] <a href="https://qiita.com/riversun/items/d27f6d3ab7aaa119deab">webpack4対応webpack-dev-serverの主要な設定オプション(CLI,webpack.config.js)の意味と挙動</a>
+  
+  
 - [ ] <a href="https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2">今から始めるReact入門 〜 React Router</a>
 - [ ] <a href="https://qiita.com/TsutomuNakamura/items/cb3b6109fb21730cd73f">今から始めるReact入門 〜 flux編</a>
 - [ ] <a href="https://qiita.com/TsutomuNakamura/items/a78514a61ede444bd074">今から始めるReact入門 〜 Redux 編 immutability とは</a>

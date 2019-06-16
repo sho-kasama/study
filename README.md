@@ -14,6 +14,7 @@
   - [ ] <a href="http://www.minituku.net/drills/775230600.html">Rubyがミニツク</a>
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/rails_practice.md">問題を解いたのをまとめた</a>
   - [ ] <a href="https://qiita.com/ngron/items/4d3ca9827d1969fccd60">【Ruby】使いこなせると便利。||演算子のいろんな使い方</a>
+  - [ ] 
 
 
 

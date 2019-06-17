@@ -448,15 +448,6 @@ ________________________________________________________________________________
 
 #### コンパイラ
 (Babelなど、未だ動作している古いブラウザでもモダンなJavaScriptコードを書いて動作させることができる)
-
-
-
-
-
-    
-    
-    
-    
     
 
 ## 4, Should I learn Jquery?
@@ -540,6 +531,7 @@ ________________________________________________________________________________
 - [ ] <a href="https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2">今から始めるReact入門 〜 React Router</a>
   - [ ] <a href="https://qiita.com/muiscript/items/b4ca1773580317e7112e">react-router@v4を使ってみよう：シンプルなtutorial</a>
   - [ ] <a href="https://the2g.com/2789">React Router について説明されてる</a>
+  - [ ] <a href="https://qiita.com/park-jh/items/b4c7b16ea9eb0cf44942">サンプルでreact-router v4を理解してみよう。</a>
   
   
 - [ ] <a href="https://qiita.com/TsutomuNakamura/items/cb3b6109fb21730cd73f">今から始めるReact入門 〜 flux編</a>

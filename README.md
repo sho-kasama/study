@@ -366,6 +366,7 @@
 - [ ] <a href="https://qiita.com/tos-miyake/items/8dffb16273726f538d49">railsのdefaultでは用意されていない考え方や設計、リファクタリングについてのリンク集</a>
 - [ ] <a href="https://qiita.com/Yama-to/items/93cd8b3a8be67b09e353">あなたがRails触る人なら見ておきたい「体系的な」豆知識
 </a>
+- [ ] <a href="https://qiita.com/tatane616/items/dbad66179754be57d2e2">.gitディレクトリファイルを探検してみた</a>
 
 
 

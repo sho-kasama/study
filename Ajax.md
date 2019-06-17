@@ -22,6 +22,7 @@
 - [ ] <a href="https://qiita.com/hisamura333/items/e3ea6ae549eb09b7efb9">初心者目線でAjaxの説明</a><br>
 - [ ] <a href="https://qiita.com/fezrestia/items/e669107a4a6e66618738">Rails 5.x標準で Ajax+(jQuery+Partial) でHTML部分更新する世界一シンプルなサンプル</a><br>
 - [ ] <a href="https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d">JavascriptのAjaxについての基本まとめ</a>
+- [ ] <a href="https://qiita.com/mihou/items/0fbda161527fcec48e81">[Rails] Ajax通信を用いたカテゴリボックス作成</a>
 
 
 

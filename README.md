@@ -727,6 +727,11 @@ ________________________________________________________________________________
 <a href="https://gakureki-zero.com/internet-web-browser/">ウェブブラウザのHTTPやHTML、URLなどを詳しく解説します</a>
 
 
+## error summary
+
+
+- [ ] <a href="https://qiita.com/dokkoisho/items/3be25d91f29f403a1550">railsでA server is already running</a>
+- [ ] <a href="https://qiita.com/ebkn/items/7c3cdde49641ec5e5b61">rails sしようとしたらAddress already in useと言われた</a>
 
 
 

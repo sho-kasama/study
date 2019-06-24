@@ -33,10 +33,10 @@
   
 #### 第4章, 0と1のマジック・ブール代数
 
-- [ ] <a href="http://www.infonet.co.jp/ueyama/ip/glossary/binary_g.html">電子計算機が成功を収めた最大の原因は、計算のベースを10進数ではなく、二進数にしたから</a>
-↓
-- [ ] <a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%AB%E4%BB%A3%E6%95%B0">ブール代数と呼ばれる数学理論はコンピューターの設計に大いに役立った。</a>
-↓<br>
+<a href="http://www.infonet.co.jp/ueyama/ip/glossary/binary_g.html">電子計算機が成功を収めた最大の原因は、計算のベースを10進数ではなく、二進数にしたから</a>
+
+<a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%AB%E4%BB%A3%E6%95%B0">ブール代数と呼ばれる数学理論はコンピューターの設計に大いに役立った。</a>
+
 二進数の三種の神器は AND,OR,NOT<br>
 これらの回路を論理回路と呼ぶ<br>
 ↓<br>

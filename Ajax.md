@@ -76,21 +76,7 @@ Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非
 ただし、XMLは名前だけ残って良いて、デファクトスタンダートで返ってくるデータはJSONというフォーマットが多いい。
 
 
-
-
-
-
-
-
-
-
 ![md](img/ajax.jpg)
-
-
-
-
-
-
 
 
 

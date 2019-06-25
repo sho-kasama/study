@@ -369,9 +369,15 @@
 - [ ] <a href="https://qiita.com/tatane616/items/dbad66179754be57d2e2">.gitディレクトリファイルを探検してみた</a>
 - [ ] <a href="https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/">プログラマが知るべき97のこと</a>
 
+
+
 #### Qiita
 
+
 - [ ] <a href="https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1">【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸</a>
+- [ ] <a href="https://qiita.com/__init__/items/d40137dbaa59ffef210a">RubyOnRailsで投稿アプリを作ろう①(環境構築編)</a>
+  - [ ] <a href="https://qiita.com/__init__/items/eaab8c55fcdd12563968">RubyOnRailsで投稿アプリを作ろう②(画面作成編)</a>
+
 
 
 

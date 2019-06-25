@@ -84,6 +84,14 @@ Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非
 
 
 
+![md](img/ajax.jpg)
+
+
+
+
+
+
+
 
 
 

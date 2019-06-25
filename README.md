@@ -14,6 +14,7 @@
   - [ ] <a href="http://www.minituku.net/drills/775230600.html">Rubyがミニツク</a>
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/rails_practice.md">問題を解いたのをまとめた</a>
   - [ ] <a href="https://qiita.com/ngron/items/4d3ca9827d1969fccd60">【Ruby】使いこなせると便利。||演算子のいろんな使い方</a>
+  - [ ] 
 
 
 
@@ -365,6 +366,19 @@
 - [ ] <a href="https://qiita.com/tos-miyake/items/8dffb16273726f538d49">railsのdefaultでは用意されていない考え方や設計、リファクタリングについてのリンク集</a>
 - [ ] <a href="https://qiita.com/Yama-to/items/93cd8b3a8be67b09e353">あなたがRails触る人なら見ておきたい「体系的な」豆知識
 </a>
+- [ ] <a href="https://qiita.com/tatane616/items/dbad66179754be57d2e2">.gitディレクトリファイルを探検してみた</a>
+- [ ] <a href="https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/">プログラマが知るべき97のこと</a>
+
+
+
+#### Qiita
+
+
+- [ ] <a href="https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1">【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸</a>
+- [ ] <a href="https://qiita.com/__init__/items/d40137dbaa59ffef210a">RubyOnRailsで投稿アプリを作ろう①(環境構築編)</a>
+  - [ ] <a href="https://qiita.com/__init__/items/eaab8c55fcdd12563968">RubyOnRailsで投稿アプリを作ろう②(画面作成編)</a>
+
+
 
 
 
@@ -410,13 +424,8 @@ ________________________________________________________________________________
 
 #### CSS AND HTML
 
-- [ ] HTMLサイトに装飾する
-  - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
-  - [ ] 
+
+- [ ] <a href="https://developer.mozilla.org/ja/docs/Web/Manifest">ウェブマニフェスト
 - [ ] <a href="https://qiita.com/hissy/items/e781a62ff6521803a230">未経験から7日間でコーダーとして現場投入させるまでのカリキュラムを忘れないようにメモっとく</a>
 
 
@@ -432,6 +441,26 @@ ________________________________________________________________________________
 - [ ] <a href="https://qiita.com/fujineyuri/items/7dc05612345122b9072e">2019年5月時点　JavaScript初心者が参考にしていいモダンJavaScript解説サイト2つ</a>
     - [ ] <a href="https://jsprimer.net/intro/">js-primer</a>
     - [ ] <a href="https://ja.javascript.info/">現代の JavaScript チュートリアル</a>
+    - [ ] <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript/A_re-introduction_to_JavaScript">JavaScript 「再」入門</a>
+    
+    
+- [ ] <a href="https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9">イマドキのJavaScriptの書き方2018</a>
+
+
+#### アロー関数について
+
+
+- [ ] <a href="https://qiita.com/mejileben/items/69e5facdb60781927929">【JavaScript】アロー関数式を学ぶついでにthisも復習する話</a>
+
+#### パッケージマネージャー
+(Yarnやnpmなど。サードパーティのパッケージの広大なエコシステムを利用でき、それらを簡単にインストールしたりアップデートできたりします。)
+
+#### バンドラ
+(webpackやParcelなど。モジュール化されたコードを書けるようになり、それを小さなパッケージにまとめてバンドルしてロード時間の最適化を行います。)
+
+#### コンパイラ
+(Babelなど、未だ動作している古いブラウザでもモダンなJavaScriptコードを書いて動作させることができる)
+    
 
 ## 4, Should I learn Jquery?
  
@@ -487,8 +516,66 @@ ________________________________________________________________________________
 ## 12, Pick a Framework
 
 
-- [ ] React
-  - [ ] Rudex
+### React
+
+
+- [ ] <a href="https://ja.reactjs.org/">React tutorial(日本語訳)</a> 
+  - [ ] <a href="https://ja.reactjs.org/docs/getting-started.html">Getting Started</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/hello-world.html">Main contents</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/accessibility.html">ADVANCE GUIDES</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/react-api.html">react-api</a>
+  - [ ] <a href="https://ja.reactjs.org/docs/hooks-intro.html">hock</a>
+  
+- [ ] <a href="https://github.com/sho-kasama/many__study/issues/48">ReactでTodoアプリを作ってみる</a>
+
+- [ ] <a href="https://qiita.com/yeaney/items/9d5227ff49c0377c3ef4#_reference-7f6111f0856a4fb446d6">React.jsを初めて勉強する時に参考になるサイト</a>
+
+- [ ] <a href="https://qiita.com/morrr/items/c32a4916d55373b64c70">React.jsチートシート</a>
+
+## 勉強になりそうなQiita
+
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048">今から始めるReact入門 〜 React の基本</a>
+  - [ ] <a href="https://qiita.com/one-kelvin/items/b810aafb6b5ef90789a3">webpack.config.jsがわからない</a>
+  - [ ] <a href="https://qiita.com/soarflat/items/28bf799f7e0335b68186">webpack 4 入門</a>
+  - [ ] <a href="https://qiita.com/riversun/items/d27f6d3ab7aaa119deab">webpack4対応webpack-dev-serverの主要な設定オプション(CLI,webpack.config.js)の意味と挙動</a>
+  
+  
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/34a7339a05bb5fd697f2">今から始めるReact入門 〜 React Router</a>
+  - [ ] <a href="https://qiita.com/muiscript/items/b4ca1773580317e7112e">react-router@v4を使ってみよう：シンプルなtutorial</a>
+  - [ ] <a href="https://the2g.com/2789">React Router について説明されてる</a>
+  - [ ] <a href="https://qiita.com/park-jh/items/b4c7b16ea9eb0cf44942">サンプルでreact-router v4を理解してみよう。</a>
+  
+  
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/cb3b6109fb21730cd73f">今から始めるReact入門 〜 flux編</a>
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/a78514a61ede444bd074">今から始めるReact入門 〜 Redux 編 immutability とは</a>
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/2ded5112ca5ded70e573">今から始めるReact入門 〜 Redux 編: Redux 単体で状態管理をしっかり理解する</a>
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/ceaa2552bbbca1bac24e">今から始めるReact入門 〜 Redux 編: Redux アプリケーションを作成する</a>
+- [ ] <a href="https://qiita.com/TsutomuNakamura/items/f10491060f0f1640afd9">今から始めるReact入門 〜 Mobx 編</a>
+
+
+## マテリアルデザイン
+
+- [ ] <a href="https://material-components.github.io/material-components-web-catalog/#/component/text-field?icons=leadingIcon&label=a&type=outlined">マテリアルデザイン</a>
+
+
+
+
+## 少し古いけど勉強になりそうなQiita
+
+- [ ] <a href="https://qiita.com/kuniken/items/19fccc27b8bfa8068d22">今からはじめるReact.js〜準備〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/963cb977dffd3e662e40">今からはじめるReact.js〜初めてのコンポーネント〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/c0f5ed06695ce52d4854">今からはじめるReact.js〜コンポーネントをまとめる〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/b06de893c22f33499a22">今からはじめるReact.js〜スタイルの適用〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/2fc5b782da5d302247ab">今からはじめるReact.js〜React ver0.14〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/a22adda392ccc30011b1">今からはじめるReact.js〜propsとstate、それからrefs〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/799197256ab3a1e46bd4">今からはじめるReact.js〜サーバーサイド〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/bc01ece78784f36a9906">今からはじめるReact.js〜仮想環境を作成する〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/bc20fd1e907d91b641d6">今からはじめるReact.js〜サーバーとの通信〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/89c8bbef3b71d2af662d">今からはじめるReact.js〜画面遷移〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/b532d4fa980b53fd6bd5">今からはじめるReact.js〜Flux〜</a>
+- [ ] <a href="https://qiita.com/kuniken/items/70c2b5cd77d7c9301bcf">今からはじめるReact.js〜Herokuへのデプロイ〜</a>
+
+- [ ] Rudex
   - [ ] Mobx
 
 
@@ -538,6 +625,23 @@ ________________________________________________________________________________
 
 
 # lower layer
+
+
+
+## web設計
+
+- [ ] <a href="https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%A8%AD%E8%A8%88%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%BE%E3%81%9A%E3%81%AF%E3%81%93%E3%81%93%E3%81%8B%E3%82%89">システム設計入門</a>
+
+
+## 正規表現
+
+- [ ] <a href="https://qiita.com/jnchito/items/893c887fbf19e17d3ff9">初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」</a>
+- [ ] <a href="https://qiita.com/jnchito/items/64c3fdc53766ac6f2008">初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう」</a>
+- [ ] <a href="https://qiita.com/jnchito/items/6f0c885c1c4929092578">初心者歓迎！手と目で覚える正規表現入門・その３「空白文字を自由自在に操ろう」</a>
+- [ ] <a href="https://qiita.com/jnchito/items/b0839f4f4651c29da408">初心者歓迎！手と目で覚える正規表現入門・その４（最終回）「中級者テクニックをマスターしよう」</a>
+
+
+
 
 
 
@@ -598,6 +702,7 @@ ________________________________________________________________________________
 - [ ] <a href="https://t.co/mtH7vmPJXM">UIを検索&downloadできるサイト</a>
 - [ ] <a href="https://mobbin.design/">UIのパーツを検索できる</a>
 - [ ] <a href="https://uimovement.com/">animation系</a>
+- [ ] <a href="https://note.mu/tiekey/n/n99eb01fa6a45">ブサイクなUIデザインを劇的に改善するための10のチェックリスト</a>
   
 
 #### 定番
@@ -635,7 +740,11 @@ ________________________________________________________________________________
 <a href="https://gakureki-zero.com/internet-web-browser/">ウェブブラウザのHTTPやHTML、URLなどを詳しく解説します</a>
 
 
+## error summary
 
+
+- [ ] <a href="https://qiita.com/dokkoisho/items/3be25d91f29f403a1550">railsでA server is already running</a>
+- [ ] <a href="https://qiita.com/ebkn/items/7c3cdde49641ec5e5b61">rails sしようとしたらAddress already in useと言われた</a>
 
 
 

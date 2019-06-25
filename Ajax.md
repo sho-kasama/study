@@ -23,6 +23,7 @@
 - [ ] <a href="https://qiita.com/fezrestia/items/e669107a4a6e66618738">Rails 5.x標準で Ajax+(jQuery+Partial) でHTML部分更新する世界一シンプルなサンプル</a><br>
 - [ ] <a href="https://qiita.com/katsunory/items/9bf9ee49ee5c08bf2b3d">JavascriptのAjaxについての基本まとめ</a>
 - [ ] <a href="https://qiita.com/mihou/items/0fbda161527fcec48e81">[Rails] Ajax通信を用いたカテゴリボックス作成</a>
+- [ ] <a href="https://qiita.com/Yama-to/items/377f8a92cf30a3ebf454">モモンガでも使えるAjax（えいじゃっくす） − 投稿したコメントをリロードせずに表示しよう</a>
 
 
 
@@ -34,9 +35,10 @@ Ajaxまとめ
 
 0 同期と非同期とは
 1. Ajaxとは
-2. JSONとは
-3. JSONPとは
-4. rails-ujsとは
+2. Ajax通信の必要条件
+3. JSONとは
+4. JSONPとは
+5. rails-ujsとは
 
 ●. 実際にAjaxを使ってみた
 
@@ -58,13 +60,6 @@ webブラウザから一部の情報をリクエストするので、
 
 
 
-
-
-
-
-
-
-
 ## 1 Ajaxとは
 
 Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非同期でサーバーとやりとりをする通信のことです。<br>
@@ -80,10 +75,37 @@ Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非
 返って来たと検知するところにJavaScriptのXTR(XMLHttpRequest)という技術が使われていて、返ってくる整形済データがXMlだったりするので Asynchronous JavaScript + XML と呼ばれている。<br>
 ただし、XMLは名前だけ残って良いて、デファクトスタンダートで返ってくるデータはJSONというフォーマットが多いい。
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 
-## JSONとは
+
+
+## 2, Ajax通信の必要条件
+
+* formにremote属性がセットされていること
+* 対応するアクションが存在すること
+* 対応するJSファイルが存在すること
+
+
+
+
+
+## 3, JSONとは
 
 `
 json   # データ記法 
@@ -161,7 +183,7 @@ JavaScriptが在るサーバとは別のサーバと通信できてしまうと�
 
 
 
-##  3JSONPとは
+##  4, JSONPとは
 <br>
 JSONP (JSON with padding)とは、scriptタグを使用してクロスドメインな(異なるドメインに存在する)データを取得する仕組みのことである。<br>
 HTMLのscriptタグ、JavaScript(関数),JSONを組み合わせて実現される。<br>
@@ -175,7 +197,7 @@ XHRだとサイト間をまたいでデータ共有できない制限を回避�
 
 
 
-## .rails-ujsとは
+## 5, .rails-ujsとは
 
 
 現場で使える Ruby on Rails5 速習実践ガイドから引用 P336<br>

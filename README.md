@@ -65,7 +65,12 @@
 
 
 
-#### MiniMagick
+#### MiniMagick (rmagickは膨大な量もメモリを使ってしまうのでメモリの消費が少ないMiniMagickが作られた )
+
+
+
+
+
 
 
 

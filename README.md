@@ -50,12 +50,27 @@
 
 - [ ] <a href="https://www.ruby-toolbox.com/">Ruby Toolbox </a>: RailsにGemを追加して機能を付け加えたいときに、どんなGemがあるのかをカテゴリーごとに見ることができる(英語)
 
-
-
 - [ ] RubyGem
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
   
 
+
+### 画像アップロード
+
+#### carrierwave
+
+- [ ] <a href="https://github.com/carrierwaveuploader/carrierwave/wiki/how-to:-use-carrierwave-with-devise">How to:use carrierwave with devise</a>
+
+
+
+
+
+#### MiniMagick
+
+
+
+
+### タグ
   
 
 #### acts-as-taggable-on 
@@ -65,6 +80,9 @@
 - [ ] <a href="https://github.com/bootstrap-tagsinput/bootstrap-tagsinput">bootstrap-tagsinput公式</a>
 - [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20150225/1424858414">Railsでacts-as-taggable-onを使ってタグ管理を行う</a>
 - [ ] <a href="https://qiita.com/fa19940118/items/62cfbfc8c6c409ba0fa5">RailsでBootstrapTagsInputを使ったタグ管理機能を実装する</a>
+
+### ページネーション
+
 
 #### kaminari
   - [ ] <a href="https://qiita.com/nysalor/items/77b9d6bc5baa41ea01f3">kaminari徹底入門</a>
@@ -87,6 +105,7 @@
 2014-05-02</a>
 
 
+
   
   
 #### nested_form
@@ -94,11 +113,15 @@
 
 
 
+### 検索
 
 #### ransack
 
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
   
+  
+  
+### URL系
   
   
 #### rails_autolink

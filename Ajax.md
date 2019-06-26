@@ -105,6 +105,7 @@ Ajaxごは、Asynchronous JavaScript + XML の略称でJavaScriptを使って非
 
 ## 2, Ajax通信の必要条件
 
+
 * formにremote属性がセットされていること
 * 対応するアクションが存在すること
 * 対応するJSファイルが存在すること

@@ -47,10 +47,8 @@
 #### インストール方法
 - [ ] <a href="https://docs.docker.com/docker-for-mac/install/">Install Docker Desktop for Mac</a>
 - [ ] <a href="https://docs.docker.com/docker-for-mac/docker-toolbox/">Docker Desktop for Mac vs. Docker Toolbox</a>
-
-
-
-
+- [ ] <a href="https://qiita.com/rh_taro/items/40373a30ead444ae9ca7">debian(jessie)のdocker image使ってるとapt-getでエラーが出る</a>
+- [ ] <a href="https://qiita.com/azul915/items/5b7063cbc80192343fc0">丁寧すぎるDocker-composeによるrails + MySQL on Dockerの環境構築(Docker for Mac)</a>
 
 
 

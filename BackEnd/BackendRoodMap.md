@@ -53,6 +53,11 @@
 - [ ] RubyGem
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
   
+- [ ] <a href="https://rubygems.org/">RubyGem.org</a>
+  
+  
+  
+  
 
 
 ### 画像アップロード
@@ -66,13 +71,6 @@
 
 
 #### MiniMagick (rmagickは膨大な量もメモリを使ってしまうのでメモリの消費が少ないMiniMagickが作られた )
-
-
-
-
-
-
-
 
 
 ### タグ

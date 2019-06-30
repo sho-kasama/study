@@ -24,3 +24,6 @@
 
 <a href="https://github.com/sho-kasama/study/tree/master/Design">デザイン系</a>
 
+## 動画系
+
+<a href="https://qiita.com/gjfcgmi/items/a8b55a0a6d4578abac66">言語別Yotube</a>

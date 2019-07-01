@@ -53,9 +53,14 @@
 - [ ] RubyGem
   - [ ] <a href="https://github.com/sho-kasama/study/blob/master/RubyGems.md">自分でまとめてみた</a>
   
+- [ ] <a href="https://rubygems.org/">RubyGem.org</a>
+  
+  
+  
+  
 
 
-### 画像アップロード
+
 
 #### carrierwave
 
@@ -68,6 +73,7 @@
 #### MiniMagick (rmagickは膨大な量もメモリを使ってしまうのでメモリの消費が少ないMiniMagickが作られた )
 
 
+<<<<<<< HEAD
 #### simple_form
 
 - [ ] <a href="">simple_formのドキュメントを読んでまとめてみた</a>
@@ -82,6 +88,8 @@
 ### タグ
   
 
+=======
+>>>>>>> 78951675bf49ad065772873d586b43344896d040
 #### acts-as-taggable-on 
 
 - [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>
@@ -90,7 +98,6 @@
 - [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20150225/1424858414">Railsでacts-as-taggable-onを使ってタグ管理を行う</a>
 - [ ] <a href="https://qiita.com/fa19940118/items/62cfbfc8c6c409ba0fa5">RailsでBootstrapTagsInputを使ったタグ管理機能を実装する</a>
 
-### ページネーション
 
 
 #### kaminari
@@ -122,15 +129,18 @@
 
 
 
-### 検索
-
 #### ransack
 
   - [ ] <a href="https://github.com/activerecord-hackery/ransack">ransackの公式ドキュメント ( マッチャーもよく見ておくこと ) </a>
   
+#### jquery-rails
+
+- [ ] <a href="http://railsdoc.com/jquery">JavascriptとHTMLの相互作業を強化する軽量なJavaScriptライブラリ
   
   
-### URL系
+
+
+  
   
   
 #### rails_autolink
@@ -404,6 +414,7 @@
 
 
 #### Qiita
+
 
 
 - [ ] <a href="https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1">【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】🎸</a>

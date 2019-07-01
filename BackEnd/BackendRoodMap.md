@@ -68,6 +68,10 @@
 #### MiniMagick (rmagickは膨大な量もメモリを使ってしまうのでメモリの消費が少ないMiniMagickが作られた )
 
 
+#### simple_form
+
+- [ ] <a href="">simple_formのドキュメントを読んでまとめてみた</a>
+
 
 
 

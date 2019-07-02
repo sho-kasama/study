@@ -29,7 +29,7 @@ webhockは、様々なアプリケーションに情報を提供します、そ�
 これが意味することは、webhockは情報提供者と消費者にとってとても効率的です。<br>
 
 
-![md](..//img/webhock.jpg)
+![md](../../img/webhock.jpg)
 
 
 

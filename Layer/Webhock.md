@@ -7,6 +7,8 @@
 
 <a href="https://qiita.com/soarflat/items/ed970f6dc59b2ab76169">Webhockとは？</a>
 
+<a href="https://kintone-blog.cybozu.co.jp/developer/000283.html">Webhookって何？を子どもでもわかるように描いてみた</a>
+
 
 
 ## multipart/from-data　とは？
@@ -17,7 +19,7 @@
 #### 翻訳
 
 webhockは近年人気が高まっているAPIの概念です。<br>
-webhockは、イベントの反応を実現するための非常に便利でリソースの少ない方法です。<br>
+Webhockとは、Webアプリケーションでイベントが実行された際、外部サービスにHTTPで通知する仕組みです。<br>
 
 
 正確にwebhockとはどんなものなの？<br>
@@ -25,8 +27,9 @@ webhock(webcallbackやHTTP push APIとも呼ばれています)は、たくさ�
 webhockは、様々なアプリケーションに情報を提供します、それはあなたがすぐに情報を得ることを意味しています。<br>
 一般的な頻繁にポーリングする必要があるapiと違って、リアルタイムのデータを取得することができます。<br>
 これが意味することは、webhockは情報提供者と消費者にとってとても効率的です。<br>
-webhockの唯一の弱点があります、それは最初準備するのがとても難しいことです。
 
+
+![md](..//img/webhock.jpg)
 
 
 
@@ -43,6 +46,34 @@ webhockの大部分は、jsonあるいはxmlとして読み取られるか、ま
 
 
 ## Debugging a Webhock
+
+
+webhockは主に非同期であるため、webhockのデバックは複雑になることがあります。<br>
+したがって、どのような原因でデバックの応答を確認する必要があります。<br>
+これは面倒でもあり、かなり非効率的です。幸運にも良い方法があります。<br>
+webhockのデバックに関するドキュメンデーションページでそれらの多くを調べてみてください。<br>
+しかし、結局は以下が原因となります。<br>
+
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

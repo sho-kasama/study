@@ -17,6 +17,12 @@ Simple_formは柔軟にフォームを作ることを助けてくれます。
 ## Boostap 
 
 simple_formは簡単にBoostrapと統合できます。
+このようなコマンドを打つと、Bootstrapが使えます。<br>
+
+` rails generate simple_form:install --bootstrap`
+
+
+
 
 
 - [ ] <a href="http://simple-form.plataformatec.com.br/#country-select">simple_form</a>

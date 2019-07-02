@@ -19,7 +19,7 @@ Simple_formは柔軟にフォームを作ることを助けてくれます。
 simple_formは簡単にBoostrapと統合できます。
 
 
-
+- [ ] <a href="http://simple-form.plataformatec.com.br/#country-select">simple_form</a>
 
 
 

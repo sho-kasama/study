@@ -6,6 +6,26 @@
   
 - [ ] <a href="https://rubygems.org/">RubyGem.org</a>
 
+  
+#### acts-as-taggable-on 
+
+- [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>
+- [ ] <a href="https://github.com/mbleigh/acts-as-taggable-on">公式リファレンス</a>
+- [ ] <a href="https://github.com/bootstrap-tagsinput/bootstrap-tagsinput">bootstrap-tagsinput公式</a>
+- [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20150225/1424858414">Railsでacts-as-taggable-onを使ってタグ管理を行う</a>
+- [ ] <a href="https://qiita.com/fa19940118/items/62cfbfc8c6c409ba0fa5">RailsでBootstrapTagsInputを使ったタグ管理機能を実装する</a>
+
+
+
+
+
+#### bootstrap-material-design
+
+
+
+- [ ] <a href="https://souken-blog.com/2016/11/17/material-design-bootstrap/">マテリアルデザインを簡単に実装できる</a>
+- [ ] <a href="https://mdbootstrap.com/live/_MDB/index/docs/presentation-free/lp-components.html">公式ドキュメント</a>
+- [ ] <a href="https://rubygems.org/gems/bootstrap-material-design">rubygems.org</a>
 
 
 
@@ -16,23 +36,24 @@
 - [ ] <a href="https://github.com/carrierwaveuploader/carrierwave/wiki/how-to:-use-carrierwave-with-devise">How to:use carrierwave with devise</a>
 
 
+
+
+#### exception_notification ( Railsでエラーが発生した時に、メールで通知をしてくれるgem )
+
+
+
+- [ ] <a href="https://github.com/smartinez87/exception_notification/blob/master/README.md">README.md</a>
+
+
+
+
+
 #### MiniMagick (rmagickは膨大な量もメモリを使ってしまうのでメモリの消費が少ないMiniMagickが作られた )
 
 
 #### simple_form
 
 - [ ] <a href="">simple_formのドキュメントを読んでまとめてみた</a>
-
-
-### タグ
-  
-#### acts-as-taggable-on 
-
-- [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>
-- [ ] <a href="https://github.com/mbleigh/acts-as-taggable-on">公式リファレンス</a>
-- [ ] <a href="https://github.com/bootstrap-tagsinput/bootstrap-tagsinput">bootstrap-tagsinput公式</a>
-- [ ] <a href="https://ruby-rails.hatenadiary.com/entry/20150225/1424858414">Railsでacts-as-taggable-onを使ってタグ管理を行う</a>
-- [ ] <a href="https://qiita.com/fa19940118/items/62cfbfc8c6c409ba0fa5">RailsでBootstrapTagsInputを使ったタグ管理機能を実装する</a>
 
 
 
@@ -86,3 +107,8 @@
   
 #### パンくずリスト
   - [ ] <a href="https://github.com/WilHall/gretel">公式ドキュメント</a>
+  
+  
+
+  
+  

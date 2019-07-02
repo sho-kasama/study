@@ -67,29 +67,16 @@
 - [ ] <a href="https://github.com/carrierwaveuploader/carrierwave/wiki/how-to:-use-carrierwave-with-devise">How to:use carrierwave with devise</a>
 
 
-
-
-
 #### MiniMagick (rmagickは膨大な量もメモリを使ってしまうのでメモリの消費が少ないMiniMagickが作られた )
 
 
-<<<<<<< HEAD
 #### simple_form
 
 - [ ] <a href="">simple_formのドキュメントを読んでまとめてみた</a>
 
 
-
-
-
-
-
-
 ### タグ
   
-
-=======
->>>>>>> 78951675bf49ad065772873d586b43344896d040
 #### acts-as-taggable-on 
 
 - [ ] <a href="https://github.com/sho-kasama/Todo-rails/issues/33">タグを作ってみる</a>

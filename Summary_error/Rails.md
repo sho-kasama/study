@@ -2,6 +2,8 @@
 
 ### デフォルトのテンプレートをERBからslimに変更する
 
+- [ ] <a href="https://akihiko-s.com/erb2slim">ここに乗ってる</a>
+
 config/application.rb
 ```
 class Application < Rails::Application

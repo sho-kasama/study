@@ -58,6 +58,11 @@
 - [ ] <a href="https://qiita.com/mom0tomo/items/2e7f7c2dbe2855b2c91d">
 
 
+## WebSocketとは？
+
+- [ ] <a href="https://qiita.com/south37/items/6f92d4268fe676347160">WebSocketについて調べてみた。</a>
+- [ ] <a href="https://qiita.com/chihiro/items/9d280704c6eff8603389">今さら聞けないWebSocket~WebSocketとは~</a>
+
 
 
 ## Qiita記事

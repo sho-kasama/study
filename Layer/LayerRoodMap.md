@@ -44,6 +44,10 @@
 - [ ] <a href="https://qiita.com/kotaro-dr/items/40106f13d47bfcbc2572">【図解】Dockerの全体像を理解する -後編-</a>
 
 
+- [ ] <a href="https://www.slideshare.net/zembutsu/explaining-best-practices-for-writing-dockerfiles">Dockerfile を書くためのベストプラクティス解説編</a>
+- [ ] <a href="https://qiita.com/zembutsu/items/a96b68277d699f79418d">Dockerfileを書くためのベストプラクティス【参考訳】v18.09</a>
+
+
 #### インストール方法
 - [ ] <a href="https://docs.docker.com/docker-for-mac/install/">Install Docker Desktop for Mac</a>
 - [ ] <a href="https://docs.docker.com/docker-for-mac/docker-toolbox/">Docker Desktop for Mac vs. Docker Toolbox</a>

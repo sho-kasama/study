@@ -117,6 +117,22 @@ watcgコールバックよりも、多くの場合は算出プロパティを利
 
 ## 用語集
 
+
+#### el
+Connect to DOM
+
+
+#### data
+Store Data to be used
+
+#### methods
+Methods of this Vue Instance
+
+#### computed 
+Dependent Properties
+
+
+
 #### {{ }}
   
 {{ }}でVueインスタンスの要素を呼び出すことができる。  

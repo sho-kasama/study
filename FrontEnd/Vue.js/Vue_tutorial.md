@@ -267,7 +267,22 @@ handler('親') -> handler('子')の順番で実行される。
 
 #### .self
 
-event.targetが自分
+event.targetが自分自身の場合のみハンドラが呼び出される
+(こ要素は呼び出されない)
+
+```
+<div v-on:click.self="handler">ボタン</div>
+```
+
+#### .once
+最大一回ハンドラを呼び出す。
+
+#### .passive
+event.preventDefault()を呼び出さないことを明示
+(.preventとの併用不可)
+
+#### .enter
+キー修飾子。エンターボタンを押した場合にハンドラを呼び出す。
 
 
 ## 参考記事

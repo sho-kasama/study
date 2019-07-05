@@ -151,10 +151,33 @@ HTML要素をVue.jsで動的に指定したい場合は```v-bind```を使いま�
 
 
 #### `v-model`
-`v-model`を
+`v-model`を使えば,Vueインスタンスの`data`をHTML要素にバインドできます。<br>
+変更された場合は、その値を参照しているDOM全てに反映されます。
+
+
+#### @
+
+`v-on:`の省略記法で、`@click="link"`のようにかけます。
+また、`v-bind`の代わりに`:`も使えます。
+
+
+#### computed
+
+Vueインスタンスの`comouted`オブジェクトは、`methods`に似ていますが、dataプロパティのように処理結果を保持させるときに使います。<br>
+`methods`と違い、呼び出すときに`()`は不要です。
 
 
 <br>
+
+#### watch
+
+Vueインスタンスの`watch`オブジェクトは、特定のプロパティの変化をトリガーに処理を走らせるときに使います。<br>
+`data`だけでなく`compited`のプロパティも`watch`できます。
+
+
+
+
+
 
 #### `v-show`
 条件的に要素を表示するための別のオプションです。`v-show`による要素は常に描画されてDOMに維持するということです。
@@ -174,9 +197,78 @@ HTML要素をVue.jsで動的に指定したい場合は```v-bind```を使いま�
 <br>
 
 
+## JSフック
+
+transitionで使えるJSフックは次の通りです。
+
+- before-enter
+- enter(done必要)
+- after-enter
+- after-enter-cancelled
+- before-leave
+- leave(done必要)
+- after-leave
+- after-leave-cancelled
+
+
+## イベント修飾子
+
+
+
+#### .stop
+
+event.stopPropagation()を呼ぶ
+
+```
+<div @click="handler('親')>
+  <div @click.stop="handler('子')">
+    ボタン
+  </div>
+</div>
+
+```
+通常同じイベントをハンドルした、DOMがネストされている場合、親要素に向かってイベントが連鎖する。<br>
+.stopをつけるとhandler('子')は実行されるが、handler('親')は実行されない。
+
+
+<br>
+
+
+#### .prevent
+
+event.preventDefault()を呼ぶ
+
+```
+<a href="#top" @click.prevent="handler"></a>
+```
+
+handlerは実行されるが,#topに移動はしない。
+
+#### .capture
+
+キャプチャモードでDOMイベントをハンドルする。<br>
+つまりルート要素から順番にイベントが実行される。
+
+```
+<div @click="handler('親')">
+  <div @click.stop="handler('子')">
+    ボタン
+  </div>
+</div>
+```
+handler('親') -> handler('子')の順番で実行される。
+
+イベントが発生すると、キャプチャフェーズでルート要素から要素を探し、ターゲットフェーズでイベントハンドラ実行、バブリングフェーズでルートまで要素を遡ります。<br>
+通常はターゲットフェーズでイベントハンドラを実行しますが、キャプチャモードにするとキャプチャフェーズでイベントが発生します。<br>
 
 
 
 
 
-## コンポーネントの詳細
+
+
+
+
+
+
+

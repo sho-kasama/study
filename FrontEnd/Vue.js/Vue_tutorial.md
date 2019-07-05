@@ -262,13 +262,19 @@ handler('親') -> handler('子')の順番で実行される。
 通常はターゲットフェーズでイベントハンドラを実行しますが、キャプチャモードにするとキャプチャフェーズでイベントが発生します。<br>
 
 
+![event](https://github.com/sho-kasama/study/blob/master/img/event_phase.png)
 
 
+#### .self
+
+event.targetが自分
 
 
+## 参考記事
 
 
-
+- [ ] <a href="https://qiita.com/hosomichi/items/49500fea5fdf43f59c58#%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%95%E3%82%A7%E3%83%BC%E3%82%BA%E3%81%A8%E3%81%AF">DOMイベントのキャプチャ/バブリングを整理する 〜 JSおくのほそ道 #017</a>
+- [ ] <a href="https://qiita.com/Yorinton/items/f7eb54f05609750da7f5">[メモ]Vue.jsイベント修飾子一覧</a>
 
 
 

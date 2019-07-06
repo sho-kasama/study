@@ -15,8 +15,7 @@ zl  →
 <a href="https://qiita.com/wtetsu/items/c43232c6c44918e977c9">Chrome拡張の高速な英語辞書ツールをつくりました(Mouse Dictionary)</a>
 
 
-
-
+<a href="https://web-cheatsheet.com/">webチートシート</a>
 
 
 

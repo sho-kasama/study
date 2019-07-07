@@ -441,6 +441,7 @@ event.preventDefault()を呼び出さないことを明示
 - [ ] <a href="https://qiita.com/Yorinton/items/f7eb54f05609750da7f5">[メモ]Vue.jsイベント修飾子一覧</a>
 - [ ] <a href="https://qiita.com/seya/items/93a0055c8fdab62d584f">コンポーネントの書き方</a>
 - [ ] <a href="https://qiita.com/seya/items/794b25cfc0cf8ac10f1b">勉強になる海外の動画サイト</a>
+- [ ] <a href="https://qiita.com/kimullaa/items/2bf8948dffb8c52d2b6b">Vuejs APIアクセスはcreatedとmountedのどちらで行う？</a>
 
 
 

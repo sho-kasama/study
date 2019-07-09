@@ -191,7 +191,6 @@ HTML要素をVue.jsで動的に指定したい場合は```v-bind```を使いま�
 ```       
            
 
-
 #### `v-once`
 
 `v-once`ディレクティブは初回だけテンプレートを評価しそれ以降は静的なコンテンツとして扱います。
@@ -432,6 +431,14 @@ event.preventDefault()を呼び出さないことを明示
 
 #### .enter
 キー修飾子。エンターボタンを押した場合にハンドラを呼び出す。
+
+
+
+## ライフサイクル
+
+
+![ライフサイクル.1](https://github.com/sho-kasama/study/blob/master/img/event_phase.png)
+![]()
 
 
 ## 参考記事

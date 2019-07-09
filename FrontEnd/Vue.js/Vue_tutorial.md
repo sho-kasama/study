@@ -441,6 +441,19 @@ event.preventDefault()を呼び出さないことを明示
 ![2](https://github.com/sho-kasama/study/blob/master/img/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB.2.jpg)
 
 
+
+#### ライフサイクル,参考記事
+
+- [ ] <a href="https://qiita.com/chan_kaku/items/7f3233053b0e209ef355">Vueのライフサイクルを完全に理解した</a>
+- [ ] <a href="https://qiita.com/htkzhtm/items/ab4bb687f47c74b4e4ec">Vueのライフサイクル</a>
+
+
+
+
+
+
+
+
 ## 参考記事
 
 

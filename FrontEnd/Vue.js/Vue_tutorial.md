@@ -437,8 +437,8 @@ event.preventDefault()を呼び出さないことを明示
 ## ライフサイクル
 
 
-![ライフサイクル.1](https://github.com/sho-kasama/study/blob/master/img/event_phase.png)
-![]()
+![ライフサイクル.1](https://github.com/sho-kasama/study/blob/master/img/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB.1.jpg)
+![2](https://github.com/sho-kasama/study/blob/master/img/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB.2.jpg)
 
 
 ## 参考記事

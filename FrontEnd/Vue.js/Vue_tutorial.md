@@ -448,6 +448,12 @@ event.preventDefault()を呼び出さないことを明示
 - [ ] <a href="https://qiita.com/htkzhtm/items/ab4bb687f47c74b4e4ec">Vueのライフサイクル</a>
 
 
+## what's export degault?
+
+export文は指定したファイル(またはモジュール)から関数、オブジェクト、プリミティブをエクスポートするために使用する。<br>
+
+importする際に指定がなければそのクラスや関数を呼ぶもの、importする際にfefualt以外のクラスや関数を呼び出したいときは、
+{}でクラスやファイル名を指定して呼び出すことができる
 
 
 

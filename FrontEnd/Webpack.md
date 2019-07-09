@@ -16,3 +16,4 @@
 - [ ] <a href="https://qiita.com/one-kelvin/items/b810aafb6b5ef90789a3">webpack.config.jsがわからない</a>
 - [ ] <a href="https://qiita.com/soarflat/items/28bf799f7e0335b68186">webpack4入門</a>
 - [ ] <a href="https://qiita.com/riversun/items/d27f6d3ab7aaa119deab">webpack4対応webpack-dev-serverの主要な設定オプション(CLI,webpack.config.js)の意味と挙動</a>
+- [ ] <a href="https://www.slideshare.net/ssuser46977e/webpack-why-cant-you-understand-the-webpack">webpackスライド</a>

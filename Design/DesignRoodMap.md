@@ -6,6 +6,7 @@
 - [ ] <a href="https://mobbin.design/">UIのパーツを検索できる</a>
 - [ ] <a href="https://uimovement.com/">animation系</a>
 - [ ] <a href="https://note.mu/tiekey/n/n99eb01fa6a45">ブサイクなUIデザインを劇的に改善するための10のチェックリスト</a>
+- [ ] <a href="https://note.mu/yamadesign/n/n552eacf2a354">「非デザイナも10分でズバッとわかる!?」解像度についてまとめてみた（印刷編）</a>
   
 
 #### 定番

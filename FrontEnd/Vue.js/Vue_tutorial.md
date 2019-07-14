@@ -16,7 +16,13 @@
 
 - [ ] <a href="https://jp.vuejs.org/v2/api/#%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%87%E3%83%BC%E3%82%BF">Vue api (用語集) </a>
 
-## 基本的な使い方(まとめ)
+## Vuexとは？
+
+
+
+- [ ] <a href="https://qiita.com/terraphic/items/078dfbadcd75ad336ed4">Vuexで状態管理の大事さを知る</a>
+- [ ] <a href="https://vuex.vuejs.org/ja/">Vuex とは何か？</a>
+
 
 
 

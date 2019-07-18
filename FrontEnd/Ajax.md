@@ -12,6 +12,11 @@
 - [ ] <a href="https://railsguides.jp/working_with_javascript_in_rails.html">Rails で JavaScript を使用する</a><br>
 
 
+#### 
+
+- [ ] <a href="https://developer.mozilla.org/ja/docs/Web/API/XMLHttpRequest">XMLHttpRequest</a>
+
+
 #### JSONP
 - [ ] <a href="https://blog.ohgaki.net/stop-using-jsonp">JSONPは危険なので禁止</a><br>
 

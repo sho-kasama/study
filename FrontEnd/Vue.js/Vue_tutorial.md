@@ -480,6 +480,7 @@ importする際に指定がなければそのクラスや関数を呼ぶもの�
 - [ ] <a href="https://qiita.com/seya/items/93a0055c8fdab62d584f">コンポーネントの書き方</a>
 - [ ] <a href="https://qiita.com/seya/items/794b25cfc0cf8ac10f1b">勉強になる海外の動画サイト</a>
 - [ ] <a href="https://qiita.com/kimullaa/items/2bf8948dffb8c52d2b6b">Vuejs APIアクセスはcreatedとmountedのどちらで行う？</a>
-
-
+- [ ] <a href="https://ginpen.com/2016/12/06/vue-computed/">computedすごいぞ賢いぞ！</a>
+- [ ] <a href="https://qiita.com/fumix/items/9c8da630de8176669955#%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%81">Vue.jsでなにか作ってみたときに参考にしたサイトとかのリンク集</a>
+- [ ] <a href="https://qiita.com/kaorina/items/bb261a119b9f02e02c2d">Vue.jsの便利な機能coumptedとは？</a>
 

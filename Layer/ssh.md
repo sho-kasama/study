@@ -7,3 +7,4 @@
 - <a href="https://help.github.com/ja/articles/adding-a-new-ssh-key-to-your-github-account">sshキーの追加方法</a>
 - <a href="https://qiita.com/suthio/items/2760e4cff0e185fe2db9">sshの正しい作成の仕方</a>
 - <a href="https://qiita.com/mktakuya/items/c57a12b5b072a658acd0">pbcopyが便利</a>
+- <a href="https://qiita.com/0084ken/items/2e4e9ae44ec5e01328f1">.ssh/configファイルでSSH接続を管理する</a>

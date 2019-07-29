@@ -13,3 +13,4 @@
 ## SSHの基礎知識
 
 - <a href="https://qiita.com/tag1216/items/5d06bad7468f731f590e">インフラエンジニアじゃなくても押さえておきたいSSHの基礎知識</a>
+- <a href="https://qiita.com/passol78/items/2ad123e39efeb1a5286b">~/.ssh/configについて</a>

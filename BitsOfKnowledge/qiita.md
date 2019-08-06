@@ -17,5 +17,6 @@ zl  →
 
 <a href="https://web-cheatsheet.com/">webチートシート</a>
 
+<a href="https://bennettfeely.com/clippy/">Clippy</a> ←もともと用意されている図形の中から選択することも、自分で図形を作って切り抜くこともできる
 
 

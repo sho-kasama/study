@@ -44,6 +44,65 @@ Chrome拡張機能は、HTMLとCSS,JavaScriptで作成したファイル群を`.
 
 
 
+<br>
+<br>
+
+
+## マニフェストの初期設定
+
+Chrome拡張機能は、まず最初に設定ファイルであるマニフェストを定義することから始まります。マニフェストには、拡張機能の
+メタデータやファイルパス、権限などを設定します。<br>
+
+<br>
+<br>
+
+
+プロジェクトのルートディレクトリに`manifest.json`という名前のファイルを作成し、JSON形式で基本項目を埋めていきます。<br>
+
+
+manifest.json ↓
+
+```
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "PixelMarket Extention",
+  "description": "PixelMarketの出品ページに、前回入力値の復元機能と商品説明テンプレート機能を追加します。",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
+
+```
+
+#### manifest_version (必須)
+
+`manifest_version`フィールドには、マニフェストのファイル形式のバージョンを数値で指定します。最新
+バージョンを
+バージョンを指定しておけば
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
